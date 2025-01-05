@@ -1,0 +1,27 @@
+##
+LoadSpecialPokePicHook 800E6A6 4
+LoadSpecialPokePicHook 0800EAEA 4
+BattleLoadPlayerMonSpriteGfxHook 8033C58 0
+BattleLoadOpponentMonSpriteGfxHook 8033AE0 0
+
+SpeciesToCryId 80429F4 1
+NationalPokedexNumToSpecies 80428F0 1
+GetFrontSpritePalFromSpeciesAndPersonality 804373C 3
+GetMonSpritePalStructFromOtIdPersonality 80437C8 3
+GetEggSpecies 8044F34 1
+GetEggMoves 80451EC 2
+CreateMonSprite_PicBoxHook 8083578 1
+GetRegionalPokedexCount 8088AB8 1
+HasAllRegionalMons 8088B34 0
+HasAllMons 8088B60 0
+GenderedMonIconHook 8096864 2
+GetIconSpecies 8096988 2
+EvolutionSceneHook1 80CF068 1
+EvolutionSceneHook2 80CF0E0 2
+EvolutionSceneHook3 80CF318 2
+PokedexMemoryAllocationHook 8103370 0
+LoadPokedexViews 81042C4 1
+DisplayRegionalDexNumHook 8105822 1
+CountSpeciesInDex 8105978 2
+AlternateDexEntriesHook 8106860 0
+SummaryScreenIconPalHook 813A5B4 1

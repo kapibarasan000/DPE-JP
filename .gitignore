@@ -1,0 +1,14 @@
+a.exe
+*.gba
+build/*
+extracted/*
+assembly/generated/*
+scripts/__pycache__
+*.sgm
+*.dmp
+*.bak
+*.lnk
+*.sav
+offsets.ini
+generatedrepoints
+*.idea

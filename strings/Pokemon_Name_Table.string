@@ -1,0 +1,3807 @@
+MAX_LENGTH=7
+FILL_FF=True
+
+#org @gSpeciesNames
+#org @NAME_SPECIES_NONE
+？？？？？？
+
+#org @NAME_BULBASAUR
+フシギダネ
+
+#org @NAME_IVYSAUR
+フシギソウ
+
+#org @NAME_VENUSAUR
+フシギバナ
+
+#org @NAME_CHARMANDER
+ヒトカゲ
+
+#org @NAME_CHARMELEON
+リザード
+
+#org @NAME_CHARIZARD
+リザードン
+
+#org @NAME_SQUIRTLE
+ゼニガメ
+
+#org @NAME_WARTORTLE
+カメール
+
+#org @NAME_BLASTOISE
+カメックス
+
+#org @NAME_CATERPIE
+キャタピー
+
+#org @NAME_METAPOD
+トランセル
+
+#org @NAME_BUTTERFREE
+バタフリー
+
+#org @NAME_WEEDLE
+ビードル
+
+#org @NAME_KAKUNA
+コクーン
+
+#org @NAME_BEEDRILL
+スピアー
+
+#org @NAME_PIDGEY
+ポッポ
+
+#org @NAME_PIDGEOTTO
+ピジョン
+
+#org @NAME_PIDGEOT
+ピジョット
+
+#org @NAME_RATTATA
+コラッタ
+
+#org @NAME_RATICATE
+ラッタ
+
+#org @NAME_SPEAROW
+オニスズメ
+
+#org @NAME_FEAROW
+オニドリル
+
+#org @NAME_EKANS
+アーボ
+
+#org @NAME_ARBOK
+アーボック
+
+#org @NAME_PIKACHU
+ピカチュウ
+
+#org @NAME_RAICHU
+ライチュウ
+
+#org @NAME_SANDSHREW
+サンド
+
+#org @NAME_SANDSLASH
+サンドパン
+
+#org @NAME_NIDORANF
+ニドラン[B6]
+
+#org @NAME_NIDORINA
+ニドリーナ
+
+#org @NAME_NIDOQUEEN
+ニドクイン
+
+#org @NAME_NIDORANM
+ニドラン[B5]
+
+#org @NAME_NIDORINO
+ニドリーノ
+
+#org @NAME_NIDOKING
+ニドキング
+
+#org @NAME_CLEFAIRY
+ピッピ
+
+#org @NAME_CLEFABLE
+ピクシー
+
+#org @NAME_VULPIX
+ロコン
+
+#org @NAME_NINETALES
+キュウコン
+
+#org @NAME_JIGGLYPUFF
+プリン
+
+#org @NAME_WIGGLYTUFF
+プクリン
+
+#org @NAME_ZUBAT
+ズバット
+
+#org @NAME_GOLBAT
+ゴルバット
+
+#org @NAME_ODDISH
+ナゾノクサ
+
+#org @NAME_GLOOM
+クサイハナ
+
+#org @NAME_VILEPLUME
+ラフレシア
+
+#org @NAME_PARAS
+パラス
+
+#org @NAME_PARASECT
+パラセクト
+
+#org @NAME_VENONAT
+コンパン
+
+#org @NAME_VENOMOTH
+モルフォン
+
+#org @NAME_DIGLETT
+ディグダ
+
+#org @NAME_DUGTRIO
+ダグトリオ
+
+#org @NAME_MEOWTH
+ニャース
+
+#org @NAME_PERSIAN
+ペルシアン
+
+#org @NAME_PSYDUCK
+コダック
+
+#org @NAME_GOLDUCK
+ゴルダック
+
+#org @NAME_MANKEY
+マンキー
+
+#org @NAME_PRIMEAPE
+オコリザル
+
+#org @NAME_GROWLITHE
+ガーディ
+
+#org @NAME_ARCANINE
+ウインディ
+
+#org @NAME_POLIWAG
+ニョロモ
+
+#org @NAME_POLIWHIRL
+ニョロゾ
+
+#org @NAME_POLIWRATH
+ニョロボン
+
+#org @NAME_ABRA
+ケーシィ
+
+#org @NAME_KADABRA
+ユンゲラー
+
+#org @NAME_ALAKAZAM
+フーディン
+
+#org @NAME_MACHOP
+ワンリキー
+
+#org @NAME_MACHOKE
+ゴーリキー
+
+#org @NAME_MACHAMP
+カイリキー
+
+#org @NAME_BELLSPROUT
+マダツボミ
+
+#org @NAME_WEEPINBELL
+ウツドン
+
+#org @NAME_VICTREEBEL
+ウツボット
+
+#org @NAME_TENTACOOL
+メノクラゲ
+
+#org @NAME_TENTACRUEL
+ドククラゲ
+
+#org @NAME_GEODUDE
+イシツブテ
+
+#org @NAME_GRAVELER
+ゴローン
+
+#org @NAME_GOLEM
+ゴローニャ
+
+#org @NAME_PONYTA
+ポニータ
+
+#org @NAME_RAPIDASH
+ギャロップ
+
+#org @NAME_SLOWPOKE
+ヤドン
+
+#org @NAME_SLOWBRO
+ヤドラン
+
+#org @NAME_MAGNEMITE
+コイル
+
+#org @NAME_MAGNETON
+レアコイル
+
+#org @NAME_FARFETCHD
+カモネギ
+
+#org @NAME_DODUO
+ドードー
+
+#org @NAME_DODRIO
+ドードリオ
+
+#org @NAME_SEEL
+パウワウ
+
+#org @NAME_DEWGONG
+ジュゴン
+
+#org @NAME_GRIMER
+ベトベター
+
+#org @NAME_MUK
+ベトベトン
+
+#org @NAME_SHELLDER
+シェルダー
+
+#org @NAME_CLOYSTER
+パルシェン
+
+#org @NAME_GASTLY
+ゴース
+
+#org @NAME_HAUNTER
+ゴースト
+
+#org @NAME_GENGAR
+ゲンガー
+
+#org @NAME_ONIX
+イワーク
+
+#org @NAME_DROWZEE
+スリープ
+
+#org @NAME_HYPNO
+スリーパー
+
+#org @NAME_KRABBY
+クラブ
+
+#org @NAME_KINGLER
+キングラー
+
+#org @NAME_VOLTORB
+ビリリダマ
+
+#org @NAME_ELECTRODE
+マルマイン
+
+#org @NAME_EXEGGCUTE
+タマタマ
+
+#org @NAME_EXEGGUTOR
+ナッシー
+
+#org @NAME_CUBONE
+カラカラ
+
+#org @NAME_MAROWAK
+ガラガラ
+
+#org @NAME_HITMONLEE
+サワムラー
+
+#org @NAME_HITMONCHAN
+エビワラー
+
+#org @NAME_LICKITUNG
+ベロリンガ
+
+#org @NAME_KOFFING
+ドガース
+
+#org @NAME_WEEZING
+マタドガス
+
+#org @NAME_RHYHORN
+サイホーン
+
+#org @NAME_RHYDON
+サイドン
+
+#org @NAME_CHANSEY
+ラッキー
+
+#org @NAME_TANGELA
+モンジャラ
+
+#org @NAME_KANGASKHAN
+ガルーラ
+
+#org @NAME_HORSEA
+タッツー
+
+#org @NAME_SEADRA
+シードラ
+
+#org @NAME_GOLDEEN
+トサキント
+
+#org @NAME_SEAKING
+アズマオウ
+
+#org @NAME_STARYU
+ヒトデマン
+
+#org @NAME_STARMIE
+スターミー
+
+#org @NAME_MR_MIME
+バリヤード
+
+#org @NAME_SCYTHER
+ストライク
+
+#org @NAME_JYNX
+ルージュラ
+
+#org @NAME_ELECTABUZZ
+エレブー
+
+#org @NAME_MAGMAR
+ブーバー
+
+#org @NAME_PINSIR
+カイロス
+
+#org @NAME_TAUROS
+ケンタロス
+
+#org @NAME_MAGIKARP
+コイキング
+
+#org @NAME_GYARADOS
+ギャラドス
+
+#org @NAME_LAPRAS
+ラプラス
+
+#org @NAME_DITTO
+メタモン
+
+#org @NAME_EEVEE
+イーブイ
+
+#org @NAME_VAPOREON
+シャワーズ
+
+#org @NAME_JOLTEON
+サンダース
+
+#org @NAME_FLAREON
+ブースター
+
+#org @NAME_PORYGON
+ポリゴン
+
+#org @NAME_OMANYTE
+オムナイト
+
+#org @NAME_OMASTAR
+オムスター
+
+#org @NAME_KABUTO
+カブト
+
+#org @NAME_KABUTOPS
+カブトプス
+
+#org @NAME_AERODACTYL
+プテラ
+
+#org @NAME_SNORLAX
+カビゴン
+
+#org @NAME_ARTICUNO
+フリーザー
+
+#org @NAME_ZAPDOS
+サンダー
+
+#org @NAME_MOLTRES
+ファイヤー
+
+#org @NAME_DRATINI
+ミニリュウ
+
+#org @NAME_DRAGONAIR
+ハクリュー
+
+#org @NAME_DRAGONITE
+カイリュー
+
+#org @NAME_MEWTWO
+ミュウツー
+
+#org @NAME_MEW
+ミュウ
+
+#org @NAME_CHIKORITA
+チコリータ
+
+#org @NAME_BAYLEEF
+ベイリーフ
+
+#org @NAME_MEGANIUM
+メガニウム
+
+#org @NAME_CYNDAQUIL
+ヒノアラシ
+
+#org @NAME_QUILAVA
+マグマラシ
+
+#org @NAME_TYPHLOSION
+バクフーン
+
+#org @NAME_TOTODILE
+ワニノコ
+
+#org @NAME_CROCONAW
+アリゲイツ
+
+#org @NAME_FERALIGATR
+オーダイル
+
+#org @NAME_SENTRET
+オタチ
+
+#org @NAME_FURRET
+オオタチ
+
+#org @NAME_HOOTHOOT
+ホーホー
+
+#org @NAME_NOCTOWL
+ヨルノズク
+
+#org @NAME_LEDYBA
+レディバ
+
+#org @NAME_LEDIAN
+レディアン
+
+#org @NAME_SPINARAK
+イトマル
+
+#org @NAME_ARIADOS
+アリアドス
+
+#org @NAME_CROBAT
+クロバット
+
+#org @NAME_CHINCHOU
+チョンチー
+
+#org @NAME_LANTURN
+ランターン
+
+#org @NAME_PICHU
+ピチュー
+
+#org @NAME_CLEFFA
+ピィ
+
+#org @NAME_IGGLYBUFF
+ププリン
+
+#org @NAME_TOGEPI
+トゲピー
+
+#org @NAME_TOGETIC
+トゲチック
+
+#org @NAME_NATU
+ネイティ
+
+#org @NAME_XATU
+ネイティオ
+
+#org @NAME_MAREEP
+メリープ
+
+#org @NAME_FLAAFFY
+モココ
+
+#org @NAME_AMPHAROS
+デンリュウ
+
+#org @NAME_BELLOSSOM
+キレイハナ
+
+#org @NAME_MARILL
+マリル
+
+#org @NAME_AZUMARILL
+マリルリ
+
+#org @NAME_SUDOWOODO
+ウソッキー
+
+#org @NAME_POLITOED
+ニョロトノ
+
+#org @NAME_HOPPIP
+ハネッコ
+
+#org @NAME_SKIPLOOM
+ポポッコ
+
+#org @NAME_JUMPLUFF
+ワタッコ
+
+#org @NAME_AIPOM
+エイパム
+
+#org @NAME_SUNKERN
+ヒマナッツ
+
+#org @NAME_SUNFLORA
+キマワリ
+
+#org @NAME_YANMA
+ヤンヤンマ
+
+#org @NAME_WOOPER
+ウパー
+
+#org @NAME_QUAGSIRE
+ヌオー
+
+#org @NAME_ESPEON
+エーフィ
+
+#org @NAME_UMBREON
+ブラッキー
+
+#org @NAME_MURKROW
+ヤミカラス
+
+#org @NAME_SLOWKING
+ヤドキング
+
+#org @NAME_MISDREAVUS
+ムウマ
+
+#org @NAME_UNOWN
+アンノーン
+
+#org @NAME_WOBBUFFET
+ソーナンス
+
+#org @NAME_GIRAFARIG
+キリンリキ
+
+#org @NAME_PINECO
+クヌギダマ
+
+#org @NAME_FORRETRESS
+フォレトス
+
+#org @NAME_DUNSPARCE
+ノコッチ
+
+#org @NAME_GLIGAR
+グライガー
+
+#org @NAME_STEELIX
+ハガネール
+
+#org @NAME_SNUBBULL
+ブルー
+
+#org @NAME_GRANBULL
+グランブル
+
+#org @NAME_QWILFISH
+ハリーセン
+
+#org @NAME_SCIZOR
+ハッサム
+
+#org @NAME_SHUCKLE
+ツボツボ
+
+#org @NAME_HERACROSS
+ヘラクロス
+
+#org @NAME_SNEASEL
+ニューラ
+
+#org @NAME_TEDDIURSA
+ヒメグマ
+
+#org @NAME_URSARING
+リングマ
+
+#org @NAME_SLUGMA
+マグマッグ
+
+#org @NAME_MAGCARGO
+マグカルゴ
+
+#org @NAME_SWINUB
+ウリムー
+
+#org @NAME_PILOSWINE
+イノムー
+
+#org @NAME_CORSOLA
+サニーゴ
+
+#org @NAME_REMORAID
+テッポウオ
+
+#org @NAME_OCTILLERY
+オクタン
+
+#org @NAME_DELIBIRD
+デリバード
+
+#org @NAME_MANTINE
+マンタイン
+
+#org @NAME_SKARMORY
+エアームド
+
+#org @NAME_HOUNDOUR
+デルビル
+
+#org @NAME_HOUNDOOM
+ヘルガー
+
+#org @NAME_KINGDRA
+キングドラ
+
+#org @NAME_PHANPY
+ゴマゾウ
+
+#org @NAME_DONPHAN
+ドンファン
+
+#org @NAME_PORYGON2
+ポリゴン2
+
+#org @NAME_STANTLER
+オドシシ
+
+#org @NAME_SMEARGLE
+ドーブル
+
+#org @NAME_TYROGUE
+バルキー
+
+#org @NAME_HITMONTOP
+カポエラー
+
+#org @NAME_SMOOCHUM
+ムチュール
+
+#org @NAME_ELEKID
+エレキッド
+
+#org @NAME_MAGBY
+ブビィ
+
+#org @NAME_MILTANK
+ミルタンク
+
+#org @NAME_BLISSEY
+ハピナス
+
+#org @NAME_RAIKOU
+ライコウ
+
+#org @NAME_ENTEI
+エンテイ
+
+#org @NAME_SUICUNE
+スイクン
+
+#org @NAME_LARVITAR
+ヨーギラス
+
+#org @NAME_PUPITAR
+サナギラス
+
+#org @NAME_TYRANITAR
+バンギラス
+
+#org @NAME_LUGIA
+ルギア
+
+#org @NAME_HOOH
+ホウオウ
+
+#org @NAME_CELEBI
+セレビィ
+
+#org @NAME_OLD_UNOWN_1
+？
+
+#org @NAME_OLD_UNOWN_2
+？
+
+#org @NAME_OLD_UNOWN_3
+？
+
+#org @NAME_OLD_UNOWN_4
+？
+
+#org @NAME_OLD_UNOWN_5
+？
+
+#org @NAME_OLD_UNOWN_6
+？
+
+#org @NAME_OLD_UNOWN_7
+？
+
+#org @NAME_OLD_UNOWN_8
+？
+
+#org @NAME_OLD_UNOWN_9
+？
+
+#org @NAME_OLD_UNOWN_10
+？
+
+#org @NAME_OLD_UNOWN_11
+？
+
+#org @NAME_OLD_UNOWN_12
+？
+
+#org @NAME_OLD_UNOWN_13
+？
+
+#org @NAME_OLD_UNOWN_14
+？
+
+#org @NAME_OLD_UNOWN_15
+？
+
+#org @NAME_OLD_UNOWN_16
+？
+
+#org @NAME_OLD_UNOWN_17
+？
+
+#org @NAME_OLD_UNOWN_18
+？
+
+#org @NAME_OLD_UNOWN_19
+？
+
+#org @NAME_OLD_UNOWN_20
+？
+
+#org @NAME_OLD_UNOWN_21
+？
+
+#org @NAME_OLD_UNOWN_22
+？
+
+#org @NAME_OLD_UNOWN_23
+？
+
+#org @NAME_OLD_UNOWN_24
+？
+
+#org @NAME_OLD_UNOWN_25
+？
+
+#org @NAME_TREECKO
+キモリ
+
+#org @NAME_GROVYLE
+ジュプトル
+
+#org @NAME_SCEPTILE
+ジュカイン
+
+#org @NAME_TORCHIC
+アチャモ
+
+#org @NAME_COMBUSKEN
+ワカシャモ
+
+#org @NAME_BLAZIKEN
+バシャーモ
+
+#org @NAME_MUDKIP
+ミズゴロウ
+
+#org @NAME_MARSHTOMP
+ヌマクロー
+
+#org @NAME_SWAMPERT
+ラグラージ
+
+#org @NAME_POOCHYENA
+ポチエナ
+
+#org @NAME_MIGHTYENA
+グラエナ
+
+#org @NAME_ZIGZAGOON
+ジグザグマ
+
+#org @NAME_LINOONE
+マッスグマ
+
+#org @NAME_WURMPLE
+ケムッソ
+
+#org @NAME_SILCOON
+カラサリス
+
+#org @NAME_BEAUTIFLY
+アゲハント
+
+#org @NAME_CASCOON
+マユルド
+
+#org @NAME_DUSTOX
+ドクケイル
+
+#org @NAME_LOTAD
+ハスボー
+
+#org @NAME_LOMBRE
+ハスブレロ
+
+#org @NAME_LUDICOLO
+ルンパッパ
+
+#org @NAME_SEEDOT
+タネボー
+
+#org @NAME_NUZLEAF
+コノハナ
+
+#org @NAME_SHIFTRY
+ダーテング
+
+#org @NAME_NINCADA
+ツチニン
+
+#org @NAME_NINJASK
+テッカニン
+
+#org @NAME_SHEDINJA
+ヌケニン
+
+#org @NAME_TAILLOW
+スバメ
+
+#org @NAME_SWELLOW
+オオスバメ
+
+#org @NAME_SHROOMISH
+キノココ
+
+#org @NAME_BRELOOM
+キノガッサ
+
+#org @NAME_SPINDA
+パッチール
+
+#org @NAME_WINGULL
+キャモメ
+
+#org @NAME_PELIPPER
+ペリッパー
+
+#org @NAME_SURSKIT
+アメタマ
+
+#org @NAME_MASQUERAIN
+アメモース
+
+#org @NAME_WAILMER
+ホエルコ
+
+#org @NAME_WAILORD
+ホエルオー
+
+#org @NAME_SKITTY
+エネコ
+
+#org @NAME_DELCATTY
+エネコロロ
+
+#org @NAME_KECLEON
+カクレオン
+
+#org @NAME_BALTOY
+ヤジロン
+
+#org @NAME_CLAYDOL
+ネンドール
+
+#org @NAME_NOSEPASS
+ノズパス
+
+#org @NAME_TORKOAL
+コータス
+
+#org @NAME_SABLEYE
+ヤミラミ
+
+#org @NAME_BARBOACH
+ドジョッチ
+
+#org @NAME_WHISCASH
+ナマズン
+
+#org @NAME_LUVDISC
+ラブカス
+
+#org @NAME_CORPHISH
+ヘイガニ
+
+#org @NAME_CRAWDAUNT
+シザリガー
+
+#org @NAME_FEEBAS
+ヒンバス
+
+#org @NAME_MILOTIC
+ミロカロス
+
+#org @NAME_CARVANHA
+キバニア
+
+#org @NAME_SHARPEDO
+サメハダー
+
+#org @NAME_TRAPINCH
+ナックラー
+
+#org @NAME_VIBRAVA
+ビブラーバ
+
+#org @NAME_FLYGON
+フライゴン
+
+#org @NAME_MAKUHITA
+マクノシタ
+
+#org @NAME_HARIYAMA
+ハリテヤマ
+
+#org @NAME_ELECTRIKE
+ラクライ
+
+#org @NAME_MANECTRIC
+ライボルト
+
+#org @NAME_NUMEL
+ドンメル
+
+#org @NAME_CAMERUPT
+バクーダ
+
+#org @NAME_SPHEAL
+タマザラシ
+
+#org @NAME_SEALEO
+トドグラー
+
+#org @NAME_WALREIN
+トドゼルガ
+
+#org @NAME_CACNEA
+サボネア
+
+#org @NAME_CACTURNE
+ノクタス
+
+#org @NAME_SNORUNT
+ユキワラシ
+
+#org @NAME_GLALIE
+オニゴーリ
+
+#org @NAME_LUNATONE
+ルナトーン
+
+#org @NAME_SOLROCK
+ソルロック
+
+#org @NAME_AZURILL
+ルリリ
+
+#org @NAME_SPOINK
+バネブー
+
+#org @NAME_GRUMPIG
+ブーピッグ
+
+#org @NAME_PLUSLE
+プラスル
+
+#org @NAME_MINUN
+マイナン
+
+#org @NAME_MAWILE
+クチート
+
+#org @NAME_MEDITITE
+アサナン
+
+#org @NAME_MEDICHAM
+チャーレム
+
+#org @NAME_SWABLU
+チルット
+
+#org @NAME_ALTARIA
+チルタリス
+
+#org @NAME_WYNAUT
+ソーナノ
+
+#org @NAME_DUSKULL
+ヨマワル
+
+#org @NAME_DUSCLOPS
+サマヨール
+
+#org @NAME_ROSELIA
+ロゼリア
+
+#org @NAME_SLAKOTH
+ナマケロ
+
+#org @NAME_VIGOROTH
+ヤルキモノ
+
+#org @NAME_SLAKING
+ケッキング
+
+#org @NAME_GULPIN
+ゴクリン
+
+#org @NAME_SWALOT
+マルノーム
+
+#org @NAME_TROPIUS
+トロピウス
+
+#org @NAME_WHISMUR
+ゴニョニョ
+
+#org @NAME_LOUDRED
+ドゴーム
+
+#org @NAME_EXPLOUD
+バクオング
+
+#org @NAME_CLAMPERL
+パールル
+
+#org @NAME_HUNTAIL
+ハンテール
+
+#org @NAME_GOREBYSS
+サクラビス
+
+#org @NAME_ABSOL
+アブソル
+
+#org @NAME_SHUPPET
+カゲボウズ
+
+#org @NAME_BANETTE
+ジュペッタ
+
+#org @NAME_SEVIPER
+ハブネーク
+
+#org @NAME_ZANGOOSE
+ザングース
+
+#org @NAME_RELICANTH
+ジーランス
+
+#org @NAME_ARON
+ココドラ
+
+#org @NAME_LAIRON
+コドラ
+
+#org @NAME_AGGRON
+ボスゴドラ
+
+#org @NAME_CASTFORM
+ポワルン
+
+#org @NAME_VOLBEAT
+バルビート
+
+#org @NAME_ILLUMISE
+イルミーゼ
+
+#org @NAME_LILEEP
+リリーラ
+
+#org @NAME_CRADILY
+ユレイドル
+
+#org @NAME_ANORITH
+アノプス
+
+#org @NAME_ARMALDO
+アーマルド
+
+#org @NAME_RALTS
+ラルトス
+
+#org @NAME_KIRLIA
+キルリア
+
+#org @NAME_GARDEVOIR
+サーナイト
+
+#org @NAME_BAGON
+タツベイ
+
+#org @NAME_SHELGON
+コモルー
+
+#org @NAME_SALAMENCE
+ボーマンダ
+
+#org @NAME_BELDUM
+ダンバル
+
+#org @NAME_METANG
+メタング
+
+#org @NAME_METAGROSS
+メタグロス
+
+#org @NAME_REGIROCK
+レジロック
+
+#org @NAME_REGICE
+レジアイス
+
+#org @NAME_REGISTEEL
+レジスチル
+
+#org @NAME_KYOGRE
+カイオーガ
+
+#org @NAME_GROUDON
+グラードン
+
+#org @NAME_RAYQUAZA
+レックウザ
+
+#org @NAME_LATIAS
+ラティアス
+
+#org @NAME_LATIOS
+ラティオス
+
+#org @NAME_JIRACHI
+ジラーチ
+
+#org @NAME_DEOXYS
+デオキシス
+
+#org @NAME_CHIMECHO
+チリーン
+
+#org @NAME_BAD_EGG
+タマゴ
+
+#org @NAME_UNOWNB
+アンノーン
+
+#org @NAME_UNOWNC
+アンノーン
+
+#org @NAME_UNOWND
+アンノーン
+
+#org @NAME_UNOWNE
+アンノーン
+
+#org @NAME_UNOWNF
+アンノーン
+
+#org @NAME_UNOWNG
+アンノーン
+
+#org @NAME_UNOWNH
+アンノーン
+
+#org @NAME_UNOWNI
+アンノーン
+
+#org @NAME_UNOWNJ
+アンノーン
+
+#org @NAME_UNOWNK
+アンノーン
+
+#org @NAME_UNOWNL
+アンノーン
+
+#org @NAME_UNOWNM
+アンノーン
+
+#org @NAME_UNOWNN
+アンノーン
+
+#org @NAME_UNOWNO
+アンノーン
+
+#org @NAME_UNOWNP
+アンノーン
+
+#org @NAME_UNOWNQ
+アンノーン
+
+#org @NAME_UNOWNR
+アンノーン
+
+#org @NAME_UNOWNS
+アンノーン
+
+#org @NAME_UNOWNT
+アンノーン
+
+#org @NAME_UNOWNU
+アンノーン
+
+#org @NAME_UNOWNV
+アンノーン
+
+#org @NAME_UNOWNW
+アンノーン
+
+#org @NAME_UNOWNX
+アンノーン
+
+#org @NAME_UNOWNY
+アンノーン
+
+#org @NAME_UNOWNZ
+アンノーン
+
+#org @NAME_UNOWN_QUESTION
+アンノーン
+
+#org @NAME_UNOWN_EXCLAMATION
+アンノーン
+
+#org @NAME_TURTWIG
+ナエトル
+
+#org @NAME_GROTLE
+ハヤシガメ
+
+#org @NAME_TORTERRA
+ドダイトス
+
+#org @NAME_CHIMCHAR
+ヒコザル
+
+#org @NAME_MONFERNO
+モウカザル
+
+#org @NAME_INFERNAPE
+ゴウカザル
+
+#org @NAME_PIPLUP
+ポッチャマ
+
+#org @NAME_PRINPLUP
+ポッタイシ
+
+#org @NAME_EMPOLEON
+エンペルト
+
+#org @NAME_STARLY
+ムックル
+
+#org @NAME_STARAVIA
+ムクバード
+
+#org @NAME_STARAPTOR
+ムクホーク
+
+#org @NAME_BIDOOF
+ビッパ
+
+#org @NAME_BIBAREL
+ビーダル
+
+#org @NAME_KRICKETOT
+コロボーシ
+
+#org @NAME_KRICKETUNE
+コロトック
+
+#org @NAME_SHINX
+コリンク
+
+#org @NAME_LUXIO
+ルクシオ
+
+#org @NAME_LUXRAY
+レントラー
+
+#org @NAME_BUDEW
+スボミー
+
+#org @NAME_ROSERADE
+ロズレイド
+
+#org @NAME_CRANIDOS
+ズガイドス
+
+#org @NAME_RAMPARDOS
+ラムパルド
+
+#org @NAME_SHIELDON
+タテトプス
+
+#org @NAME_BASTIODON
+トリデプス
+
+#org @NAME_BURMYP
+ミノムッチ
+
+#org @NAME_WORMADAM_P
+ミノマダム
+
+#org @NAME_MOTHIM
+ガーメイル
+
+#org @NAME_COMBEE
+ミツハニー
+
+#org @NAME_VESPIQUEN
+ビークイン
+
+#org @NAME_PACHIRISU
+パチリス
+
+#org @NAME_BUIZEL
+ブイゼル
+
+#org @NAME_FLOATZEL
+フローゼル
+
+#org @NAME_CHERUBI
+チェリンボ
+
+#org @NAME_CHERRIM
+チェリム
+
+#org @NAME_SHELLOS
+カラナクシ
+
+#org @NAME_GASTRODON
+トリトドン
+
+#org @NAME_AMBIPOM
+エテボース
+
+#org @NAME_DRIFLOON
+フワンテ
+
+#org @NAME_DRIFBLIM
+フワライド
+
+#org @NAME_BUNEARY
+ミミロル
+
+#org @NAME_LOPUNNY
+ミミロップ
+
+#org @NAME_MISMAGIUS
+ムウマージ
+
+#org @NAME_HONCHKROW
+ドンカラス
+
+#org @NAME_GLAMEOW
+ニャルマー
+
+#org @NAME_PURUGLY
+ブニャット
+
+#org @NAME_CHINGLING
+リーシャン
+
+#org @NAME_STUNKY
+スカンプー
+
+#org @NAME_SKUNTANK
+スカタンク
+
+#org @NAME_BRONZOR
+ドーミラー
+
+#org @NAME_BRONZONG
+ドータクン
+
+#org @NAME_BONSLY
+ウソハチ
+
+#org @NAME_MIME_JR
+マネネ
+
+#org @NAME_HAPPINY
+ピンプク
+
+#org @NAME_CHATOT
+ペラップ
+
+#org @NAME_SPIRITOMB
+ミカルゲ
+
+#org @NAME_GIBLE
+フカマル
+
+#org @NAME_GABITE
+ガバイト
+
+#org @NAME_GARCHOMP
+ガブリアス
+
+#org @NAME_MUNCHLAX
+ゴンベ
+
+#org @NAME_RIOLU
+リオル
+
+#org @NAME_LUCARIO
+ルカリオ
+
+#org @NAME_HIPPOPOTAS
+ヒポポタス
+
+#org @NAME_HIPPOWDON
+カバルドン
+
+#org @NAME_SKORUPI
+スコルピ
+
+#org @NAME_DRAPION
+ドラピオン
+
+#org @NAME_CROAGUNK
+グレッグル
+
+#org @NAME_TOXICROAK
+ドクロッグ
+
+#org @NAME_CARNIVINE
+マスキッパ
+
+#org @NAME_FINNEON
+ケイコウオ
+
+#org @NAME_LUMINEON
+ネオラント
+
+#org @NAME_MANTYKE
+タマンタ
+
+#org @NAME_SNOVER
+ユキカブリ
+
+#org @NAME_ABOMASNOW
+ユキノオー
+
+#org @NAME_WEAVILE
+マニューラ
+
+#org @NAME_MAGNEZONE
+ジバコイル
+
+#org @NAME_LICKILICKY
+ベロベルト
+
+#org @NAME_RHYPERIOR
+ドサイドン
+
+#org @NAME_TANGROWTH
+モジャンボ
+
+#org @NAME_ELECTIVIRE
+エレキブル
+
+#org @NAME_MAGMORTAR
+ブーバーン
+
+#org @NAME_TOGEKISS
+トゲキッス
+
+#org @NAME_YANMEGA
+メガヤンマ
+
+#org @NAME_LEAFEON
+リーフィア
+
+#org @NAME_GLACEON
+グレイシア
+
+#org @NAME_GLISCOR
+グライオン
+
+#org @NAME_MAMOSWINE
+マンムー
+
+#org @NAME_PORYGONZ
+ポリゴンZ
+
+#org @NAME_GALLADE
+エルレイド
+
+#org @NAME_PROBOPASS
+ダイノーズ
+
+#org @NAME_DUSKNOIR
+ヨノワール
+
+#org @NAME_FROSLASS
+ユキメノコ
+
+#org @NAME_ROTOM
+ロトム
+
+#org @NAME_UXIE
+ユクシー
+
+#org @NAME_MESPRIT
+エムリット
+
+#org @NAME_AZELF
+アグノム
+
+#org @NAME_DIALGA
+ディアルガ
+
+#org @NAME_PALKIA
+パルキア
+
+#org @NAME_HEATRAN
+ヒードラン
+
+#org @NAME_REGIGIGAS
+レジギガス
+
+#org @NAME_GIRATINA
+ギラティナ
+
+#org @NAME_CRESSELIA
+クレセリア
+
+#org @NAME_PHIONE
+フィオネ
+
+#org @NAME_MANAPHY
+マナフィ
+
+#org @NAME_DARKRAI
+ダークライ
+
+#org @NAME_SHAYMIN
+シェイミ
+
+#org @NAME_ARCEUS
+アルセウス
+
+#org @NAME_VICTINI
+ビクティニ
+
+#org @NAME_SNIVY
+ツタージャ
+
+#org @NAME_SERVINE
+ジャノビー
+
+#org @NAME_SERPERIOR
+ジャローダ
+
+#org @NAME_TEPIG
+ポカブ
+
+#org @NAME_PIGNITE
+チャオブー
+
+#org @NAME_EMBOAR
+エンブオー
+
+#org @NAME_OSHAWOTT
+ミジュマル
+
+#org @NAME_DEWOTT
+フタチマル
+
+#org @NAME_SAMUROTT
+ダイケンキ
+
+#org @NAME_PATRAT
+ミネズミ
+
+#org @NAME_WATCHOG
+ミルホッグ
+
+#org @NAME_LILLIPUP
+ヨーテリー
+
+#org @NAME_HERDIER
+ハーデリア
+
+#org @NAME_STOUTLAND
+ムーランド
+
+#org @NAME_PURRLOIN
+チョロネコ
+
+#org @NAME_LIEPARD
+レパルダス
+
+#org @NAME_PANSAGE
+ヤナップ
+
+#org @NAME_SIMISAGE
+ヤナッキー
+
+#org @NAME_PANSEAR
+バオップ
+
+#org @NAME_SIMISEAR
+バオッキー
+
+#org @NAME_PANPOUR
+ヒヤップ
+
+#org @NAME_SIMIPOUR
+ヒヤッキー
+
+#org @NAME_MUNNA
+ムンナ
+
+#org @NAME_MUSHARNA
+ムシャーナ
+
+#org @NAME_PIDOVE
+マメパト
+
+#org @NAME_TRANQUILL
+ハトーボー
+
+#org @NAME_UNFEZANT
+ケンホロウ
+
+#org @NAME_BLITZLE
+シママ
+
+#org @NAME_ZEBSTRIKA
+ゼブライカ
+
+#org @NAME_ROGGENROLA
+ダンゴロ
+
+#org @NAME_BOLDORE
+ガントル
+
+#org @NAME_GIGALITH
+ギガイアス
+
+#org @NAME_WOOBAT
+コロモリ
+
+#org @NAME_SWOOBAT
+ココロモリ
+
+#org @NAME_DRILBUR
+モグリュー
+
+#org @NAME_EXCADRILL
+ドリュウズ
+
+#org @NAME_AUDINO
+タブンネ
+
+#org @NAME_TIMBURR
+ドッコラー
+
+#org @NAME_GURDURR
+ドテッコツ
+
+#org @NAME_CONKELDURR
+ローブシン
+
+#org @NAME_TYMPOLE
+オタマロ
+
+#org @NAME_PALPITOAD
+ガマガル
+
+#org @NAME_SEISMITOAD
+ガマゲロゲ
+
+#org @NAME_THROH
+ナゲキ
+
+#org @NAME_SAWK
+ダゲキ
+
+#org @NAME_SEWADDLE
+クルミル
+
+#org @NAME_SWADLOON
+クルマユ
+
+#org @NAME_LEAVANNY
+ハハコモリ
+
+#org @NAME_VENIPEDE
+フシデ
+
+#org @NAME_WHIRLIPEDE
+ホイーガ
+
+#org @NAME_SCOLIPEDE
+ペンドラー
+
+#org @NAME_COTTONEE
+モンメン
+
+#org @NAME_WHIMSICOTT
+エルフーン
+
+#org @NAME_PETILIL
+チュリネ
+
+#org @NAME_LILLIGANT
+ドレディア
+
+#org @NAME_BASCULINR
+バスラオ
+
+#org @NAME_SANDILE
+メグロコ
+
+#org @NAME_KROKOROK
+ワルビル
+
+#org @NAME_KROOKODILE
+ワルビアル
+
+#org @NAME_DARUMAKA
+ダルマッカ
+
+#org @NAME_DARMANITAN
+ヒヒダルマ
+
+#org @NAME_MARACTUS
+マラカッチ
+
+#org @NAME_DWEBBLE
+イシズマイ
+
+#org @NAME_CRUSTLE
+イワパレス
+
+#org @NAME_SCRAGGY
+ズルッグ
+
+#org @NAME_SCRAFTY
+ズルズキン
+
+#org @NAME_SIGILYPH
+シンボラー
+
+#org @NAME_YAMASK
+デスマス
+
+#org @NAME_COFAGRIGUS
+デスカーン
+
+#org @NAME_TIRTOUGA
+プロトーガ
+
+#org @NAME_CARRACOSTA
+アバゴーラ
+
+#org @NAME_ARCHEN
+アーケン
+
+#org @NAME_ARCHEOPS
+アーケオス
+
+#org @NAME_TRUBBISH
+ヤブクロン
+
+#org @NAME_GARBODOR
+ダストダス
+
+#org @NAME_ZORUA
+ゾロア
+
+#org @NAME_ZOROARK
+ゾロアーク
+
+#org @NAME_MINCCINO
+チラーミィ
+
+#org @NAME_CINCCINO
+チラチーノ
+
+#org @NAME_GOTHITA
+ゴチム
+
+#org @NAME_GOTHORITA
+ゴチミル
+
+#org @NAME_GOTHITELLE
+ゴチルゼル
+
+#org @NAME_SOLOSIS
+ユニラン
+
+#org @NAME_DUOSION
+ダブラン
+
+#org @NAME_REUNICLUS
+ランクルス
+
+#org @NAME_DUCKLETT
+コアルヒー
+
+#org @NAME_SWANNA
+スワンナ
+
+#org @NAME_VANILLITE
+バニプッチ
+
+#org @NAME_VANILLISH
+バニリッチ
+
+#org @NAME_VANILLUXE
+バイバニラ
+
+#org @NAME_DEERLINGS
+シキジカ
+
+#org @NAME_SAWSBUCKS
+メブキジカ
+
+#org @NAME_EMOLGA
+エモンガ
+
+#org @NAME_KARRABLAST
+カブルモ
+
+#org @NAME_ESCAVALIER
+シュバルゴ
+
+#org @NAME_FOONGUS
+タマゲタケ
+
+#org @NAME_AMOONGUSS
+モロバレル
+
+#org @NAME_FRILLISH
+プルリル
+
+#org @NAME_JELLICENT
+ブルンゲル
+
+#org @NAME_ALOMOMOLA
+ママンボウ
+
+#org @NAME_JOLTIK
+バチュル
+
+#org @NAME_GALVANTULA
+デンチュラ
+
+#org @NAME_FERROSEED
+テッシード
+
+#org @NAME_FERROTHORN
+ナットレイ
+
+#org @NAME_KLINK
+ギアル
+
+#org @NAME_KLANG
+ギギアル
+
+#org @NAME_KLINKLANG
+ギギギアル
+
+#org @NAME_TYNAMO
+シビシラス
+
+#org @NAME_EELEKTRIK
+シビビール
+
+#org @NAME_EELEKTROSS
+シビルドン
+
+#org @NAME_ELGYEM
+リグレー
+
+#org @NAME_BEHEEYEM
+オーベム
+
+#org @NAME_LITWICK
+ヒトモシ
+
+#org @NAME_LAMPENT
+ランプラー
+
+#org @NAME_CHANDELURE
+シャンデラ
+
+#org @NAME_AXEW
+キバゴ
+
+#org @NAME_FRAXURE
+オノンド
+
+#org @NAME_HAXORUS
+オノノクス
+
+#org @NAME_CUBCHOO
+クマシュン
+
+#org @NAME_BEARTIC
+ツンベアー
+
+#org @NAME_CRYOGONAL
+フリージオ
+
+#org @NAME_SHELMET
+チョボマキ
+
+#org @NAME_ACCELGOR
+アギルダー
+
+#org @NAME_STUNFISK
+マッギョ
+
+#org @NAME_MIENFOO
+コジョフー
+
+#org @NAME_MIENSHAO
+コジョンド
+
+#org @NAME_DRUDDIGON
+クリムガン
+
+#org @NAME_GOLETT
+ゴビット
+
+#org @NAME_GOLURK
+ゴルーグ
+
+#org @NAME_PAWNIARD
+コマタナ
+
+#org @NAME_BISHARP
+キリキザン
+
+#org @NAME_BOUFFALANT
+バッフロン
+
+#org @NAME_RUFFLET
+ワシボン
+
+#org @NAME_BRAVIARY
+ウォーグル
+
+#org @NAME_VULLABY
+バルチャイ
+
+#org @NAME_MANDIBUZZ
+バルジーナ
+
+#org @NAME_HEATMOR
+クイタラン
+
+#org @NAME_DURANT
+アイアント
+
+#org @NAME_DEINO
+モノズ
+
+#org @NAME_ZWEILOUS
+ジヘッド
+
+#org @NAME_HYDREIGON
+サザンドラ
+
+#org @NAME_LARVESTA
+メラルバ
+
+#org @NAME_VOLCARONA
+ウルガモス
+
+#org @NAME_COBALION
+コバルオン
+
+#org @NAME_TERRAKION
+テラキオン
+
+#org @NAME_VIRIZION
+ビリジオン
+
+#org @NAME_TORNADUS
+トルネロス
+
+#org @NAME_THUNDURUS
+ボルトロス
+
+#org @NAME_RESHIRAM
+レシラム
+
+#org @NAME_ZEKROM
+ゼクロム
+
+#org @NAME_LANDORUS
+ランドロス
+
+#org @NAME_KYUREM
+キュレム
+
+#org @NAME_KELDEO
+ケルディオ
+
+#org @NAME_MELOETTA
+メロエッタ
+
+#org @NAME_GENESECT
+ゲノセクト
+
+#org @NAME_UNFEZANT_F
+ケンホロウ
+
+#org @NAME_FRILLISH_F
+プルリル
+
+#org @NAME_JELLICENTF
+ブルンゲル
+
+#org @NAME_SHADOW_WARRIOR
+かげ
+
+#org @NAME_BURMYS
+ミノムッチ
+
+#org @NAME_BURMYT
+ミノムッチ
+
+#org @NAME_WORMADAM_S
+ミノマダム
+
+#org @NAME_WORMADAM_T
+ミノマダム
+
+#org @NAME_SHELLOSE
+カラナクシ
+
+#org @NAME_GASTRODONE
+トリトドン
+
+#org @NAME_ROTOMHEAT
+ロトム
+
+#org @NAME_ROTOMWASH
+ロトム
+
+#org @NAME_ROTOMFROS
+ロトム
+
+#org @NAME_ROTOMFAN
+ロトム
+
+#org @NAME_ROTOMMOW
+ロトム
+
+#org @NAME_GIRATINAO
+ギラティナ
+
+#org @NAME_SHAYMINS
+シェイミ
+
+#org @NAME_ARCEUSFIT
+アルセウス
+
+#org @NAME_ARCEUSFLY
+アルセウス
+
+#org @NAME_ARCEUSPSN
+アルセウス
+
+#org @NAME_ARCEUSGRD
+アルセウス
+
+#org @NAME_ARCEUSROC
+アルセウス
+
+#org @NAME_ARCEUSBUG
+アルセウス
+
+#org @NAME_ARCEUSGST
+アルセウス
+
+#org @NAME_ARCEUSSTL
+アルセウス
+
+#org @NAME_ARCEUSFIR
+アルセウス
+
+#org @NAME_ARCEUSWTR
+アルセウス
+
+#org @NAME_ARCEUSGRS
+アルセウス
+
+#org @NAME_ARCEUSELE
+アルセウス
+
+#org @NAME_ARCEUSPSY
+アルセウス
+
+#org @NAME_ARCEUSICE
+アルセウス
+
+#org @NAME_ARCEUSDRA
+アルセウス
+
+#org @NAME_ARCEUSDRK
+アルセウス
+
+#org @NAME_BASCULINB
+バスラオ
+
+#org @NAME_ZENITAN
+ヒヒダルマ
+
+#org @NAME_DEERLINGM
+シキジカ
+
+#org @NAME_DEERLINGF
+シキジカ
+
+#org @NAME_DEERLINGW
+シキジカ
+
+#org @NAME_SAWSBUCKM
+メブキジカ
+
+#org @NAME_SAWSBUCKF
+メブキジカ
+
+#org @NAME_SAWSBUCKW
+メブキジカ
+
+#org @NAME_HIPPOPOTAF
+ヒポポタス
+
+#org @NAME_HIPPOWDONF
+カバルドン
+
+#org @NAME_MELOETTAP
+メロエッタ
+
+#org @NAME_GENESECTE
+ゲノセクト
+
+#org @NAME_GENESECTF
+ゲノセクト
+
+#org @NAME_GENESECTI
+ゲノセクト
+
+#org @NAME_GENESECTW
+ゲノセクト
+
+#org @NAME_CHERRIMS
+チェリム
+
+#org @NAME_KYUREMB
+キュレム
+
+#org @NAME_KYUREMW
+キュレム
+
+#org @NAME_TORNADUST
+トルネロス
+
+#org @NAME_THUNDURUST
+ボルトロス
+
+#org @NAME_LANDORUST
+ランドロス
+
+#org @NAME_KELDEOR
+ケルディオ
+
+#org @NAME_CHESPIN
+ハリマロン
+
+#org @NAME_QUILLADIN
+ハリボーグ
+
+#org @NAME_CHESNAUGHT
+ブリガロン
+
+#org @NAME_FENNEKIN
+フォッコ
+
+#org @NAME_BRAIXEN
+テールナー
+
+#org @NAME_DELPHOX
+マフォクシー
+
+#org @NAME_FROAKIE
+ケロマツ
+
+#org @NAME_FROGADIER
+ゲコガシラ
+
+#org @NAME_GRENINJA
+ゲッコウガ
+
+#org @NAME_BUNNELBY
+ホルビー
+
+#org @NAME_DIGGERSBY
+ホルード
+
+#org @NAME_FLETCHLING
+ヤヤコマ
+
+#org @NAME_FLETCHINDR
+ヒノヤコマ
+
+#org @NAME_TALONFLAME
+ファイアロー
+
+#org @NAME_SCATTERBUG
+コフキムシ
+
+#org @NAME_SPEWPA
+コフーライ
+
+#org @NAME_VIVILLON
+ビビヨン
+
+#org @NAME_LITLEO
+シシコ
+
+#org @NAME_PYROAR
+カエンジシ
+
+#org @NAME_FLABEBE_R
+フラベベ
+
+#org @NAME_FLOETTE_R
+フラエッテ
+
+#org @NAME_FLORGES_R
+フラージェス
+
+#org @NAME_SKIDDO
+メェークル
+
+#org @NAME_GOGOAT
+ゴーゴート
+
+#org @NAME_PANCHAM
+ヤンチャム
+
+#org @NAME_PANGORO
+ゴロンダ
+
+#org @NAME_FURFROU
+トリミアン
+
+#org @NAME_ESPURR
+ニャスパー
+
+#org @NAME_MEOWSTIC
+ニャオニクス
+
+#org @NAME_HONEDGE
+ヒトツキ
+
+#org @NAME_DOUBLADE
+ニダンギル
+
+#org @NAME_AEGISLASH
+ギルガルド
+
+#org @NAME_SPRITZEE
+シュシュプ
+
+#org @NAME_AROMATISSE
+フレフワン
+
+#org @NAME_SWIRLIX
+ペロッパフ
+
+#org @NAME_SLURPUFF
+ペロリーム
+
+#org @NAME_INKAY
+マーイーカ
+
+#org @NAME_MALAMAR
+カラマネロ
+
+#org @NAME_BINACLE
+カメテテ
+
+#org @NAME_BARBARACLE
+ガメノデス
+
+#org @NAME_SKRELP
+クズモー
+
+#org @NAME_DRAGALGE
+ドラミドロ
+
+#org @NAME_CLAUNCHER
+ウデッポウ
+
+#org @NAME_CLAWITZER
+ブロスター
+
+#org @NAME_HELIOPTILE
+エリキテル
+
+#org @NAME_HELIOLISK
+エレザード
+
+#org @NAME_TYRUNT
+チゴラス
+
+#org @NAME_TYRANTRUM
+ガチゴラス
+
+#org @NAME_AMAURA
+アマルス
+
+#org @NAME_AURORUS
+アマルルガ
+
+#org @NAME_SYLVEON
+ニンフィア
+
+#org @NAME_HAWLUCHA
+ルチャブル
+
+#org @NAME_DEDENNE
+デデンネ
+
+#org @NAME_CARBINK
+メレシー
+
+#org @NAME_GOOMY
+ヌメラ
+
+#org @NAME_SLIGGOO
+ヌメイル
+
+#org @NAME_GOODRA
+ヌメルゴン
+
+#org @NAME_KLEFKI
+クレッフィ
+
+#org @NAME_PHANTUMP
+ボクレー
+
+#org @NAME_TREVENANT
+オーロット
+
+#org @NAME_PUMPKABOOS
+バケッチャ
+
+#org @NAME_GOURGEISTS
+パンプジン
+
+#org @NAME_BERGMITE
+カチコール
+
+#org @NAME_AVALUGG
+クレベース
+
+#org @NAME_NOIBAT
+オンバット
+
+#org @NAME_NOIVERN
+オンバーン
+
+#org @NAME_XERNEAS
+ゼルネアス
+
+#org @NAME_YVELTAL
+イベルタル
+
+#org @NAME_ZYGARDE
+ジガルデ
+
+#org @NAME_DIANCIE
+ディアンシー
+
+#org @NAME_HOOPA
+フーパ
+
+#org @NAME_HOOPAU
+フーパ
+
+#org @NAME_VOLCANION
+ボルケニオン
+
+#org @NAME_PYROAR_F
+カエンジシ
+
+#org @NAME_MEOWSTIC_F
+ニャオニクス
+
+#org @NAME_AEGISLASHB
+ギルガルド
+
+#org @NAME_ARCEUSFRY
+アルセウス
+
+#org @NAME_ZYGARDECEL
+ジガルデ
+
+#org @NAME_ZYGARDECOR
+ジガルデ
+
+#org @NAME_ZYGARDE10
+ジガルデ
+
+#org @NAME_ZYGARDE100
+ジガルデ
+
+#org @NAME_GRENINJA_A
+ゲッコウガ
+
+#org @NAME_FLABEBE_B
+フラベベ
+
+#org @NAME_FLABEBE_O
+フラベベ
+
+#org @NAME_FLABEBE_Y
+フラベベ
+
+#org @NAME_FLABEBE_W
+フラベベ
+
+#org @NAME_FLOETTE_B
+フラエッテ
+
+#org @NAME_FLOETTE_O
+フラエッテ
+
+#org @NAME_FLOETTE_Y
+フラエッテ
+
+#org @NAME_FLOETTE_W
+フラエッテ
+
+#org @NAME_FLOETTE_AZ
+フラエッテ
+
+#org @NAME_FLORGES_B
+フラージェス
+
+#org @NAME_FLORGES_O
+フラージェス
+
+#org @NAME_FLORGES_Y
+フラージェス
+
+#org @NAME_FLORGES_W
+フラージェス
+
+#org @NAME_PUMPKABOOX
+バケッチャ
+
+#org @NAME_PUMPKABOOL
+バケッチャ
+
+#org @NAME_PUMPKABOOM
+バケッチャ
+
+#org @NAME_GOURGEISTX
+パンプジン
+
+#org @NAME_GOURGEISTL
+パンプジン
+
+#org @NAME_GOURGEISTM
+パンプジン
+
+#org @NAME_FURFROU_A
+トリミアン
+
+#org @NAME_FURFROU_B
+トリミアン
+
+#org @NAME_FURFROU_C
+トリミアン
+
+#org @NAME_FURFROU_D
+トリミアン
+
+#org @NAME_FURFROU_E
+トリミアン
+
+#org @NAME_FURFROU_F
+トリミアン
+
+#org @NAME_FURFROU_G
+トリミアン
+
+#org @NAME_FURFROU_H
+トリミアン
+
+#org @NAME_FURFROU_I
+トリミアン
+
+#org @NAME_VIVILLON_FANCY
+ビビヨン
+
+#org @NAME_MVENUSAUR
+フシギバナ
+
+#org @NAME_CHARIZARDX
+リザードン
+
+#org @NAME_CHARIZARDY
+リザードン
+
+#org @NAME_MBLASTOISE
+カメックス
+
+#org @NAME_MBEEDRILL
+スピアー
+
+#org @NAME_MPIDGEOT
+ピジョット
+
+#org @NAME_MALAKAZAM
+フーディン
+
+#org @NAME_MSLOWBRO
+ヤドラン
+
+#org @NAME_MGENGAR
+ゲンガー
+
+#org @NAME_MKANGASKAN
+ガルーラ
+
+#org @NAME_MPINSIR
+カイロス
+
+#org @NAME_MGYARADOS
+ギャラドス
+
+#org @NAME_MARODACTYL
+プテラ
+
+#org @NAME_MMEWTWOX
+ミュウツー
+
+#org @NAME_MMEWTWOY
+ミュウツー
+
+#org @NAME_MAMPHAROS
+デンリュウ
+
+#org @NAME_MSTEELIX
+ハガネール
+
+#org @NAME_MSCIZOR
+ハッサム
+
+#org @NAME_MHERACROSS
+ヘラクロス
+
+#org @NAME_MHOUNDOOM
+ヘルガー
+
+#org @NAME_MTYRANITAR
+バンギラス
+
+#org @NAME_MSCEPTILE
+ジュカイン
+
+#org @NAME_MBLAZIKEN
+バシャーモ
+
+#org @NAME_MSWAMPERT
+ラグラージ
+
+#org @NAME_MGARDEVOIR
+サーナイト
+
+#org @NAME_MSABLEYE
+ヤミラミ
+
+#org @NAME_MMAWILE
+クチート
+
+#org @NAME_MAGGRON
+ボスゴドラ
+
+#org @NAME_MMEDICHAM
+チャーレム
+
+#org @NAME_MMANECTRIC
+ライボルト
+
+#org @NAME_MSHARPEDO
+サメハダー
+
+#org @NAME_MCAMERUPT
+バクーダ
+
+#org @NAME_MALTARIA
+チルタリス
+
+#org @NAME_MBANETTE
+ジュペッタ
+
+#org @NAME_MABSOL
+アブソル
+
+#org @NAME_MGLALIE
+オニゴーリ
+
+#org @NAME_MSALAMENCE
+ボーマンダ
+
+#org @NAME_MMETAGROSS
+メタグロス
+
+#org @NAME_MLATIAS
+ラティアス
+
+#org @NAME_MLATIOS
+ラティオス
+
+#org @NAME_PGROUDON
+グラードン
+
+#org @NAME_PKYOGRE
+カイオーガ
+
+#org @NAME_MRAYQUAZA
+レックウザ
+
+#org @NAME_MLOPUNNY
+ミミロップ
+
+#org @NAME_MGARCHOMP
+ガブリアス
+
+#org @NAME_MLUCARIO
+ルカリオ
+
+#org @NAME_MABOMASNOW
+ユキノオー
+
+#org @NAME_MGALLADE
+エルレイド
+
+#org @NAME_MAUDINO
+タブンネ
+
+#org @NAME_MDIANCIE
+ディアンシー
+
+#org @NAME_PDIALGA
+ディアルガ
+
+#org @NAME_PPALKIA
+パルキア
+
+#org @NAME_VIVILLON2
+ビビヨン
+
+#org @NAME_VIVILLON3
+ビビヨン
+
+#org @NAME_VIVILLON4
+ビビヨン
+
+#org @NAME_VIVILLON5
+ビビヨン
+
+#org @NAME_VIVILLON6
+ビビヨン
+
+#org @NAME_VIVILLON7
+ビビヨン
+
+#org @NAME_VIVILLON8
+ビビヨン
+
+#org @NAME_VIVILLON9
+ビビヨン
+
+#org @NAME_VIVILLON10
+ビビヨン
+
+#org @NAME_VIVILLON11
+ビビヨン
+
+#org @NAME_VIVILLON12
+ビビヨン
+
+#org @NAME_VIVILLON13
+ビビヨン
+
+#org @NAME_VIVILLON14
+ビビヨン
+
+#org @NAME_VIVILLON15
+ビビヨン
+
+#org @NAME_VIVILLON16
+ビビヨン
+
+#org @NAME_VIVILLON17
+ビビヨン
+
+#org @NAME_VIVILLON18
+ビビヨン
+
+#org @NAME_VIVILLON19
+ビビヨン
+
+#org @NAME_ROWLET
+モクロー
+
+#org @NAME_DARTRIX
+フクスロー
+
+#org @NAME_DECIDUEYE
+ジュナイパー
+
+#org @NAME_LITTEN
+ニャビー
+
+#org @NAME_TORRACAT
+ニャヒート
+
+#org @NAME_INCINEROAR
+ガオガエン
+
+#org @NAME_POPPLIO
+アシマリ
+
+#org @NAME_BRIONNE
+オシャマリ
+
+#org @NAME_PRIMARINA
+アシレーヌ
+
+#org @NAME_PIKIPEK
+ツツケラ
+
+#org @NAME_TRUMBEAK
+ケララッパ
+
+#org @NAME_TOUCANNON
+ドデカバシ
+
+#org @NAME_YUNGOOS
+ヤングース
+
+#org @NAME_GUMSHOOS
+デカグース
+
+#org @NAME_GRUBBIN
+アゴジムシ
+
+#org @NAME_CHARJABUG
+デンヂムシ
+
+#org @NAME_VIKAVOLT
+クワガノン
+
+#org @NAME_CRABRAWLER
+マケンカニ
+
+#org @NAME_CRABMINBLE
+ケケンカニ
+
+#org @NAME_ORICORIO
+オドリドリ
+
+#org @NAME_CUTIEFLY
+アブリー
+
+#org @NAME_RIBOMBEE
+アブリボン
+
+#org @NAME_ROCKRUFF
+イワンコ
+
+#org @NAME_LYCANROC
+ルガルガン
+
+#org @NAME_WISHIWASHI
+ヨワシ
+
+#org @NAME_MAREANIE
+ヒドイデ
+
+#org @NAME_TOXAPEX
+ドヒドイデ
+
+#org @NAME_MUDBRAY
+ドロバンコ
+
+#org @NAME_MUDSDALE
+バンバドロ
+
+#org @NAME_DEWPIDER
+シズクモ
+
+#org @NAME_ARAQUANID
+オニシズクモ
+
+#org @NAME_FOMANTIS
+カリキリ
+
+#org @NAME_LURANTIS
+ラランテス
+
+#org @NAME_MORELULL
+ネマシュ
+
+#org @NAME_SHIINOTIC
+マシェード
+
+#org @NAME_SALANDIT
+ヤトウモリ
+
+#org @NAME_SALAZZLE
+エンニュート
+
+#org @NAME_STUFFUL
+ヌイコグマ
+
+#org @NAME_BEWEAR
+キテルグマ
+
+#org @NAME_BOUNSWEET
+アマカジ
+
+#org @NAME_STEENEE
+アママイコ
+
+#org @NAME_TSAREENA
+アマージョ
+
+#org @NAME_COMFEY
+キュワワー
+
+#org @NAME_ORANGURU
+ヤレユータン
+
+#org @NAME_PASSIMIAN
+ナゲツケサル
+
+#org @NAME_WIMPOD
+コソクムシ
+
+#org @NAME_GOLISOPOD
+グソクムシャ
+
+#org @NAME_SANDYGAST
+スナバァ
+
+#org @NAME_PALOSSAND
+シロデスナ
+
+#org @NAME_PYUKUMUKU
+ナマコブシ
+
+#org @NAME_TYPE_NULL
+タイプ:ヌル
+
+#org @NAME_SILVALLY
+シルヴァディ
+
+#org @NAME_MINIOR
+メテノ
+
+#org @NAME_KOMALA
+ネッコアラ
+
+#org @NAME_TURTONATOR
+バクガメス
+
+#org @NAME_TOGEDEMARU
+トゲデマル
+
+#org @NAME_MIMIKYU
+ミミッキュ
+
+#org @NAME_BRUXISH
+ハギギシリ
+
+#org @NAME_DRAMPA
+ジジーロン
+
+#org @NAME_DHELMISE
+ダダリン
+
+#org @NAME_JANGMOO
+ジャラコ
+
+#org @NAME_HAKAMOO
+ジャランゴ
+
+#org @NAME_KOMMOO
+ジャラランガ
+
+#org @NAME_TAPU_KOKO
+カプ・コケコ
+
+#org @NAME_TAPU_LELE
+カプ・テテフ
+
+#org @NAME_TAPU_BULU
+カプ・ブルル
+
+#org @NAME_TAPU_FINI
+カプ・レヒレ
+
+#org @NAME_COSMOG
+コスモッグ
+
+#org @NAME_COSMOEM
+コスモウム
+
+#org @NAME_SOLGALEO
+ソルガレオ
+
+#org @NAME_LUNALA
+ルナアーラ
+
+#org @NAME_NIHILEGO
+ウツロイド
+
+#org @NAME_BUZZWOLE
+マッシブーン
+
+#org @NAME_PHEROMOSA
+フェローチェ
+
+#org @NAME_XURKITREE
+デンジュモク
+
+#org @NAME_CELESTEELA
+テッカグヤ
+
+#org @NAME_KARTANA
+カミツルギ
+
+#org @NAME_GUZZLORD
+アクジキング
+
+#org @NAME_NECROZMA
+ネクロズマ
+
+#org @NAME_MAGEARNA
+マギアナ
+
+#org @NAME_MARSHADOW
+マーシャドー
+
+#org @NAME_ARATTATA
+コラッタ
+
+#org @NAME_ARATICATE
+ラッタ
+
+#org @NAME_ARAICHU
+ライチュウ
+
+#org @NAME_ASANDSHREW
+サンド
+
+#org @NAME_ASANDSLASH
+サンドパン
+
+#org @NAME_AVULPIX
+ロコン
+
+#org @NAME_ANINETALES
+キュウコン
+
+#org @NAME_ADIGLETT
+ディグダ
+
+#org @NAME_ADUGTRIO
+ダグトリオ
+
+#org @NAME_AMEOWTH
+ニャース
+
+#org @NAME_APERSIAN
+ペルシアン
+
+#org @NAME_AGEODUDE
+イシツブテ
+
+#org @NAME_AGRAVELER
+ゴローン
+
+#org @NAME_AGOLEM
+ゴローニャ
+
+#org @NAME_AGRIMER
+ベトベター
+
+#org @NAME_AMUK
+ベトベトン
+
+#org @NAME_AEXEGGCUTE
+タマタマ
+
+#org @NAME_AEXEGGUTOR
+ナッシー
+
+#org @NAME_ACUBONE
+カラカラ
+
+#org @NAME_AMAROWAK
+ガラガラ
+
+#org @NAME_DEOXYSA
+デオキシス
+
+#org @NAME_DEOXYSD
+デオキシス
+
+#org @NAME_DEOXYSS
+デオキシス
+
+#org @NAME_ORICORIOY
+オドリドリ
+
+#org @NAME_ORICORIOP
+オドリドリ
+
+#org @NAME_ORICORIOS
+オドリドリ
+
+#org @NAME_LYCANROCN
+ルガルガン
+
+#org @NAME_WISHIWASHS
+ヨワシ
+
+#org @NAME_SILVALLYFI
+シルヴァディ
+
+#org @NAME_SILVALLYFL
+シルヴァディ
+
+#org @NAME_SILVALLYPS
+シルヴァディ
+
+#org @NAME_SILVALLYGR
+シルヴァディ
+
+#org @NAME_SILVALLYRO
+シルヴァディ
+
+#org @NAME_SILVALLYBU
+シルヴァディ
+
+#org @NAME_SILVALLYGS
+シルヴァディ
+
+#org @NAME_SILVALLYST
+シルヴァディ
+
+#org @NAME_SILVALLYFR
+シルヴァディ
+
+#org @NAME_SILVALLYWA
+シルヴァディ
+
+#org @NAME_SILVALLYGA
+シルヴァディ
+
+#org @NAME_SILVALLYEL
+シルヴァディ
+
+#org @NAME_SILVALLYPY
+シルヴァディ
+
+#org @NAME_SILVALLYIC
+シルヴァディ
+
+#org @NAME_SILVALLYDR
+シルヴァディ
+
+#org @NAME_SILVALLYDA
+シルヴァディ
+
+#org @NAME_SILVALLYFA
+シルヴァディ
+
+#org @NAME_MINIORRED
+メテノ
+
+#org @NAME_MINIORBLU
+メテノ
+
+#org @NAME_MINIORORG
+メテノ
+
+#org @NAME_MINIORYLW
+メテノ
+
+#org @NAME_MINIORIND
+メテノ
+
+#org @NAME_MINIORGRN
+メテノ
+
+#org @NAME_MINIORVIO
+メテノ
+
+#org @NAME_MIMIKYUBU
+ミミッキュ
+
+#org @NAME_MAGEARNAP
+マギアナ
+
+#org @NAME_POIPOLE
+ベベノム
+
+#org @NAME_NAGANADEL
+アーゴヨン
+
+#org @NAME_STAKATAKA
+ツンデツンデ
+
+#org @NAME_BLACPHALON
+ズガドーン
+
+#org @NAME_ZERAORA
+ゼラオラ
+
+#org @NAME_NECROZMAM
+ネクロズマ
+
+#org @NAME_NECROZMAW
+ネクロズマ
+
+#org @NAME_NECROZMAU
+ネクロズマ
+
+#org @NAME_LYCANROCD
+ルガルガン
+
+#org @NAME_MELTAN
+メルタン
+
+#org @NAME_MELMETAL
+メルメタル
+
+#org @NAME_PIKACHU_SURFING
+ピカチュウ
+
+#org @NAME_PIKACHU_FLYING
+ピカチュウ
+
+#org @NAME_PIKACHU_COSPLAY
+ピカチュウ
+
+#org @NAME_PIKACHU_LIBRE
+ピカチュウ
+
+#org @NAME_PIKACHU_POP_STAR
+ピカチュウ
+
+#org @NAME_PIKACHU_ROCK_STAR
+ピカチュウ
+
+#org @NAME_PIKACHU_BELLE
+ピカチュウ
+
+#org @NAME_PIKACHU_PHD
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_ORIGINAL
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_HOENN
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_SINNOH
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_UNOVA
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_KALOS
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_ALOLA
+ピカチュウ
+
+#org @NAME_PIKACHU_CAP_PARTNER
+ピカチュウ
+
+#org @NAME_PICHU_SPIKY
+ピチュー
+
+#org @NAME_XERNEAS_NATURAL
+ゼルネアス
+
+#org @NAME_GROOKEY
+サルノリ
+
+#org @NAME_THWACKEY
+バチンキー
+
+#org @NAME_RILLABOOM
+ゴリランダー
+
+#org @NAME_SCORBUNNY
+ヒバニー
+
+#org @NAME_RABOOT
+ラビフット
+
+#org @NAME_CINDERACE
+エースバーン
+
+#org @NAME_SOBBLE
+メッソン
+
+#org @NAME_DRIZZILE
+ジメレオン
+
+#org @NAME_INTELEON
+インテレオン
+
+#org @NAME_SKWOVET
+ホシガリス
+
+#org @NAME_GREEDENT
+ヨクバリス
+
+#org @NAME_ROOKIDEE
+ココガラ
+
+#org @NAME_CORVISQUIRE
+アオガラス
+
+#org @NAME_CORVIKNIGHT
+アーマーガア
+
+#org @NAME_BLIPBUG
+サッチムシ
+
+#org @NAME_DOTTLER
+レドームシ
+
+#org @NAME_ORBEETLE
+イオルブ
+
+#org @NAME_NICKIT
+クスネ
+
+#org @NAME_THIEVUL
+フォクスライ
+
+#org @NAME_GOSSIFLEUR
+ヒメンカ
+
+#org @NAME_ELDEGOSS
+ワタシラガ
+
+#org @NAME_WOOLOO
+ウールー
+
+#org @NAME_DUBWOOL
+バイウールー
+
+#org @NAME_CHEWTLE
+カムカメ
+
+#org @NAME_DREDNAW
+カジリガメ
+
+#org @NAME_YAMPER
+ワンパチ
+
+#org @NAME_BOLTUND
+パルスワン
+
+#org @NAME_ROLYCOLY
+タンドン
+
+#org @NAME_CARKOL
+トロッゴン
+
+#org @NAME_COALOSSAL
+セキタンザン
+
+#org @NAME_APPLIN
+カジッチュ
+
+#org @NAME_FLAPPLE
+アップリュー
+
+#org @NAME_APPLETUN
+タルップル
+
+#org @NAME_SILICOBRA
+スナヘビ
+
+#org @NAME_SANDACONDA
+サダイジャ
+
+#org @NAME_CRAMORANT
+ウッウ
+
+#org @NAME_ARROKUDA
+サシカマス
+
+#org @NAME_BARRASKEWDA
+カマスジョー
+
+#org @NAME_TOXEL
+エレズン
+
+#org @NAME_TOXTRICITY
+ストリンダー
+
+#org @NAME_SIZZLIPEDE
+ヤクデ
+
+#org @NAME_CENTISKORCH
+マルヤクデ
+
+#org @NAME_CLOBBOPUS
+タタッコ
+
+#org @NAME_GRAPPLOCT
+オトスパス
+
+#org @NAME_SINISTEA
+ヤバチャ
+
+#org @NAME_POLTEAGEIST
+ポットデス
+
+#org @NAME_HATENNA
+ミブリム
+
+#org @NAME_HATTREM
+テブリム
+
+#org @NAME_HATTERENE
+ブリムオン
+
+#org @NAME_IMPIDIMP
+ベロバー
+
+#org @NAME_MORGREM
+ギモー
+
+#org @NAME_GRIMMSNARL
+オーロンゲ
+
+#org @NAME_OBSTAGOON
+タチフサグマ
+
+#org @NAME_PERRSERKER
+ニャイキング
+
+#org @NAME_CURSOLA
+サニゴーン
+
+#org @NAME_SIRFETCHD
+ネギガナイト
+
+#org @NAME_MR_RIME
+バリコオル
+
+#org @NAME_RUNERIGUS
+デスバーン
+
+#org @NAME_MILCERY
+マホミル
+
+#org @NAME_ALCREMIE_STRAWBERRY
+マホイップ
+
+#org @NAME_FALINKS
+タイレーツ
+
+#org @NAME_PINCURCHIN
+バチンウニ
+
+#org @NAME_SNOM
+ユキハミ
+
+#org @NAME_FROSMOTH
+モスノウ
+
+#org @NAME_STONJOURNER
+イシヘンジン
+
+#org @NAME_EISCUE
+コオリッポ
+
+#org @NAME_INDEEDEE
+イエッサン
+
+#org @NAME_MORPEKO
+モルペコ
+
+#org @NAME_CUFANT
+ゾウドウ
+
+#org @NAME_COPPERAJAH
+ダイオウドウ
+
+#org @NAME_DRACOZOLT
+パッチラゴン
+
+#org @NAME_ARCTOZOLT
+パッチルドン
+
+#org @NAME_DRACOVISH
+ウオノラゴン
+
+#org @NAME_ARCTOVISH
+ウオチルドン
+
+#org @NAME_DURALUDON
+ジュラルドン
+
+#org @NAME_DREEPY
+ドラメシヤ
+
+#org @NAME_DRAKLOAK
+ドロンチ
+
+#org @NAME_DRAGAPULT
+ドラパルト
+
+#org @NAME_ZACIAN
+ザシアン
+
+#org @NAME_ZAMAZENTA
+ザマゼンタ
+
+#org @NAME_ETERNATUS
+ムゲンダイナ
+
+#org @NAME_KUBFU
+ダクマ
+
+#org @NAME_URSHIFU_SINGLE
+ウーラオス
+
+#org @NAME_ZARUDE
+ザルード
+
+#org @NAME_REGIELEKI
+レジエレキ
+
+#org @NAME_REGIDRAGO
+レジドラゴ
+
+#org @NAME_GLASTRIER
+ブリザポス
+
+#org @NAME_SPECTRIER
+レイスポス
+
+#org @NAME_CALYREX
+バドレックス
+
+#org @NAME_CRAMORANT_GULPING
+ウッウ
+
+#org @NAME_CRAMORANT_GORGING
+ウッウ
+
+#org @NAME_TOXTRICITY_LOW_KEY
+ストリンダー
+
+#org @NAME_SINISTEA_CHIPPED
+ヤバチャ
+
+#org @NAME_POLTEAGEIST_CHIPPED
+ポットデス
+
+#org @NAME_ALCREMIE_BERRY
+マホイップ
+
+#org @NAME_ALCREMIE_CLOVER
+マホイップ
+
+#org @NAME_ALCREMIE_FLOWER
+マホイップ
+
+#org @NAME_ALCREMIE_LOVE
+マホイップ
+
+#org @NAME_ALCREMIE_RIBBON
+マホイップ
+
+#org @NAME_ALCREMIE_STAR
+マホイップ
+
+#org @NAME_EISCUE_NOICE
+コオリッポ
+
+#org @NAME_INDEEDEE_FEMALE
+イエッサン
+
+#org @NAME_MORPEKO_HANGRY
+モルペコ
+
+#org @NAME_ZACIAN_CROWNED
+ザシアン
+
+#org @NAME_ZAMAZENTA_CROWNED
+ザマゼンタ
+
+#org @NAME_ETERNATUS_ETERNAMAX
+ムゲンダイナ
+
+#org @NAME_URSHIFU_RAPID
+ウーラオス
+
+#org @NAME_ZARUDE_DADA
+ザルード
+
+#org @NAME_CALYREX_ICE
+バドレックス
+
+#org @NAME_CALYREX_SHADOW
+バドレックス
+
+#org @NAME_MEOWTH_G
+ニャース
+
+#org @NAME_PONYTA_G
+ポニータ
+
+#org @NAME_RAPIDASH_G
+ギャロップ
+
+#org @NAME_SLOWPOKE_G
+ヤドン
+
+#org @NAME_SLOWBRO_G
+ヤドラン
+
+#org @NAME_FARFETCHD_G
+カモネギ
+
+#org @NAME_KOFFING_G
+ドガース
+
+#org @NAME_WEEZING_G
+マタドガス
+
+#org @NAME_MR_MIME_G
+バリヤード
+
+#org @NAME_ARTICUNO_G
+フリーザー
+
+#org @NAME_ZAPDOS_G
+サンダー
+
+#org @NAME_MOLTRES_G
+ファイヤー
+
+#org @NAME_SLOWKING_G
+ヤドキング
+
+#org @NAME_CORSOLA_G
+サニーゴ
+
+#org @NAME_ZIGZAGOON_G
+ジグザグマ
+
+#org @NAME_LINOONE_G
+マッスグマ
+
+#org @NAME_MIME_JR_G
+マネネ
+
+#org @NAME_DARUMAKA_G
+ダルマッカ
+
+#org @NAME_DARMANITAN_G
+ヒヒダルマ
+
+#org @NAME_DARMANITAN_G_ZEN
+ヒヒダルマ
+
+#org @NAME_YAMASK_G
+デスマス
+
+#org @NAME_STUNFISK_G
+マッギョ
+
+#org @NAME_VENUSAUR_GIGA
+フシギバナ
+
+#org @NAME_CHARIZARD_GIGA
+リザードン
+
+#org @NAME_BLASTOISE_GIGA
+カメックス
+
+#org @NAME_BUTTERFREE_GIGA
+バタフリー
+
+#org @NAME_PIKACHU_GIGA
+ピカチュウ
+
+#org @NAME_MEOWTH_GIGA
+ニャース
+
+#org @NAME_MACHAMP_GIGA
+カイリキー
+
+#org @NAME_GENGAR_GIGA
+ゲンガー
+
+#org @NAME_KINGLER_GIGA
+キングラー
+
+#org @NAME_LAPRAS_GIGA
+ラプラス
+
+#org @NAME_EEVEE_GIGA
+イーブイ
+
+#org @NAME_SNORLAX_GIGA
+カビゴン
+
+#org @NAME_GARBODOR_GIGA
+ダストダス
+
+#org @NAME_MELMETAL_GIGA
+メルメタル
+
+#org @NAME_RILLABOOM_GIGA
+ゴリランダー
+
+#org @NAME_CINDERACE_GIGA
+エースバーン
+
+#org @NAME_INTELEON_GIGA
+インテレオン
+
+#org @NAME_CORVIKNIGHT_GIGA
+アーマーガア
+
+#org @NAME_ORBEETLE_GIGA
+イオルブ
+
+#org @NAME_DREDNAW_GIGA
+カジリガメ
+
+#org @NAME_COALOSSAL_GIGA
+セキタンザン
+
+#org @NAME_FLAPPLE_GIGA
+アップリュー
+
+#org @NAME_APPLETUN_GIGA
+タルップル
+
+#org @NAME_SANDACONDA_GIGA
+サダイジャ
+
+#org @NAME_TOXTRICITY_GIGA
+ストリンダー
+
+#org @NAME_TOXTRICITY_LOW_KEY_GIGA
+ストリンダー
+
+#org @NAME_CENTISKORCH_GIGA
+マルヤクデ
+
+#org @NAME_HATTERENE_GIGA
+ブリムオン
+
+#org @NAME_GRIMMSNARL_GIGA
+オーロンゲ
+
+#org @NAME_ALCREMIE_GIGA
+マホイップ
+
+#org @NAME_COPPERAJAH_GIGA
+ダイオウドウ
+
+#org @NAME_DURALUDON_GIGA
+ジュラルドン
+
+#org @NAME_URSHIFU_SINGLE_GIGA
+ウーラオス
+
+#org @NAME_URSHIFU_RAPID_GIGA
+ウーラオス

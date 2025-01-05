@@ -1,0 +1,41 @@
+#include "src/defines.h"
+
+##Repoints all pointers found at given location 
+##(Eg. repoints pointer located at 0x8016364 which is 0x81D65A8 in vanilla, does not repoint 0x8016364)
+gSpeciesNames 08000144
+gBaseStats 080001BC
+gEggMoves 08045214
+gTMHMLearnsets 080432B4
+gTutorLearnsets 08121420
+
+gCryTable 080718B8
+gCryTable2 080718A8
+#gSpeciesIdToCryId 08043328 #NO LONGER NEEDED
+
+gMonFrontPicTable 08000128
+gMonBackPicTable 0800012C
+gMonFrontPicCoords 0801179C
+gMonBackPicCoords 08073DD8
+gEnemyMonElevation 08034E6C
+gMonPaletteTable 08000130
+gMonShinyPaletteTable 08000134
+
+gEvolutionTable 0804265C
+gPokedexEntries 08088A10
+gHabitatPtrsTable 081073E0
+gSpeciesToNationalPokedexNum 0804292C
+gPokedexOrder_Alphabetical 08104448
+gPokedexOrder_Weight 08104584
+gPokedexOrder_Height 08104620
+gPokedexOrder_Type 81044EC
+
+gMonIconTable 08000138
+gMonIconPaletteIndices 0800013C
+gItemAnimationTable 0812F2E8
+
+gTMHMMoves 081263D8
+gMoveTutorMoves 081213D4
+
+#ifdef EXPAND_LEARNSETS
+gLevelUpLearnsets 0803E1E8
+#endif
