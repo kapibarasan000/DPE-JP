@@ -26,12 +26,13 @@ struct BaseStats
  /* 0x13 */ u8 growthRate;
  /* 0x14 */ u8 eggGroup1;
  /* 0x15 */ u8 eggGroup2;
- /* 0x16 */ u8 ability1;
- /* 0x17 */ u8 ability2;
+ /* 0x16 */ u16 ability1;
  /* 0x18 */ u8 safariZoneFleeRate;
  /* 0x19 */ u8 bodyColor : 7;
             u8 noFlip : 1;
- /* 0x1A */	u8 hiddenAbility;		
+ /* 0x1A */ u16 ability2;
+ /* 0x1C */	u16 hiddenAbility;
+ /* 0x1E */	u16 unused;
 };
 
 enum
@@ -99,6 +100,7 @@ enum
 #define TYPE_ROOSTLESS 0x13
 #define TYPE_BLANK	  0x14
 #define TYPE_FAIRY	  0x17
+#define TYPE_STELLAR  0x18
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE

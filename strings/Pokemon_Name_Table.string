@@ -3704,6 +3704,84 @@ FILL_FF=True
 #org @NAME_STUNFISK_G
 マッギョ
 
+#org @NAME_GROWLITHE_H
+ガーディ
+
+#org @NAME_ARCANINE_H
+ウインディ
+
+#org @NAME_VOLTORB_H
+ビリリダマ
+
+#org @NAME_ELECTRODE_H
+マルマイン
+
+#org @NAME_TYPHLOSION_H
+バクフーン
+
+#org @NAME_QWILFISH_H
+ハリーセン
+
+#org @NAME_SNEASEL_H
+ニューラ
+
+#org @NAME_SAMUROTT_H
+ダイケンキ
+
+#org @NAME_LILLIGANT_H
+ドレディア
+
+#org @NAME_BASCULIN_H
+バスラオ
+
+#org @NAME_ZORUA_H
+ゾロア
+
+#org @NAME_ZOROARK_H
+ゾロアーク
+
+#org @NAME_BRAVIARY_H
+ウォーグル
+
+#org @NAME_SLIGGOO_H
+ヌメイル
+
+#org @NAME_GOODRA_H
+ヌメルゴン
+
+#org @NAME_AVALUGG_H
+クレベース
+
+#org @NAME_DECIDUEYE_H
+ジュナイパー
+
+#org @NAME_WYRDEER
+アヤシシ
+
+#org @NAME_KLEAVOR
+バサギリ
+
+#org @NAME_URSALUNA
+ガチグマ
+
+#org @NAME_BASCULEGION_M
+イダイトウ
+
+#org @NAME_BASCULEGION_F
+イダイトウ
+
+#org @NAME_SNEASLER
+オオニューラ
+
+#org @NAME_OVERQWIL
+ハリーマン
+
+#org @NAME_ENAMORUS
+ラブトロス
+
+#org @NAME_ENAMORUS_THERIAN
+ラブトロス
+
 #org @NAME_VENUSAUR_GIGA
 フシギバナ
 
@@ -3805,3 +3883,441 @@ FILL_FF=True
 
 #org @NAME_URSHIFU_RAPID_GIGA
 ウーラオス
+
+#org @NAME_SPRIGATITO
+ニャオハ
+
+#org @NAME_FLORAGATO
+ニャローテ
+
+#org @NAME_MEOWSCARADA
+マスカーニャ
+
+#org @NAME_FUECOCO
+ホゲータ
+
+#org @NAME_CROCALOR
+アチゲータ
+
+#org @NAME_SKELEDIRGE
+ラウドボーン
+
+#org @NAME_QUAXLY
+クワッス
+
+#org @NAME_QUAXWELL
+ウェルカモ
+
+#org @NAME_QUAQUAVAL
+ウェーニバル
+
+#org @NAME_LECHONK
+グルトン
+
+#org @NAME_OINKOLOGNE
+パフュートン
+
+#org @NAME_OINKOLOGNE_FEMALE
+パフュートン
+
+#org @NAME_TAROUNTULA
+タマンチュラ
+
+#org @NAME_SPIDOPS
+ワナイダー
+
+#org @NAME_NYMBLE
+マメバッタ
+
+#org @NAME_LOKIX
+エクスレッグ
+
+#org @NAME_PAWMI
+パモ
+
+#org @NAME_PAWMO
+パモット
+
+#org @NAME_PAWMOT
+パーモット
+
+#org @NAME_TANDEMAUS
+ワッカネズミ
+
+#org @NAME_MAUSHOLD
+イッカネズミ
+
+#org @NAME_MAUSHOLD_FOUR
+イッカネズミ
+
+#org @NAME_FIDOUGH
+パピモッチ
+
+#org @NAME_DACHSBUN
+バウッツェル
+
+#org @NAME_SMOLIV
+ミニーブ
+
+#org @NAME_DOLLIV
+オリーニョ
+
+#org @NAME_ARBOLIVA
+オリーヴァ
+
+#org @NAME_SQUAWKABILLY
+イキリンコ
+
+#org @NAME_SQUAWKABILLY_BLUE
+イキリンコ
+
+#org @NAME_SQUAWKABILLY_YELLOW
+イキリンコ
+
+#org @NAME_SQUAWKABILLY_WHITE
+イキリンコ
+
+#org @NAME_NACLI
+コジオ
+
+#org @NAME_NACLSTACK
+ジオヅム
+
+#org @NAME_GARGANACL
+キョジオーン
+
+#org @NAME_CHARCADET
+カルボウ
+
+#org @NAME_ARMAROUGE
+グレンアルマ
+
+#org @NAME_CERULEDGE
+ソウブレイズ
+
+#org @NAME_TADBULB
+ズピカ
+
+#org @NAME_BELLIBOLT
+ハラバリー
+
+#org @NAME_WATTREL
+カイデン
+
+#org @NAME_KILOWATTREL
+タイカイデン
+
+#org @NAME_MASCHIFF
+オラチフ
+
+#org @NAME_MABOSSTIFF
+マフィティフ
+
+#org @NAME_SHROODLE
+シルシュルー
+
+#org @NAME_GRAFAIAI
+タギングル
+
+#org @NAME_BRAMBLIN
+アノクサ
+
+#org @NAME_BRAMBLEGHAST
+アノホラグサ
+
+#org @NAME_TOEDSCOOL
+ノノクラゲ
+
+#org @NAME_TOEDSCRUEL
+リククラゲ
+
+#org @NAME_KLAWF
+ガケガニ
+
+#org @NAME_CAPSAKID
+カプサイジ
+
+#org @NAME_SCOVILLAIN
+スコヴィラン
+
+#org @NAME_RELLOR
+シガロコ
+
+#org @NAME_RABSCA
+ベラカス
+
+#org @NAME_FLITTLE
+ヒラヒナ
+
+#org @NAME_ESPATHRA
+クエスパトラ
+
+#org @NAME_TINKATINK
+カヌチャン
+
+#org @NAME_TINKATUFF
+ナカヌチャン
+
+#org @NAME_TINKATON
+デカヌチャン
+
+#org @NAME_WIGLETT
+ウミディグダ
+
+#org @NAME_WUGTRIO
+ウミトリオ
+
+#org @NAME_BOMBIRDIER
+オトシドリ
+
+#org @NAME_FINIZEN
+ナミイルカ
+
+#org @NAME_PALAFIN
+イルカマン
+
+#org @NAME_PALAFIN_HERO
+イルカマン
+
+#org @NAME_VAROOM
+ブロロン
+
+#org @NAME_REVAVROOM
+ブロロローム
+
+#org @NAME_CYCLIZAR
+モトトカゲ
+
+#org @NAME_ORTHWORM
+ミミズズ
+
+#org @NAME_GLIMMET
+キラーメ
+
+#org @NAME_GLIMMORA
+キラフロル
+
+#org @NAME_GREAVARD
+ボチ
+
+#org @NAME_HOUNDSTONE
+ハカドッグ
+
+#org @NAME_FLAMIGO
+カラミンゴ
+
+#org @NAME_CETODDLE
+アルクジラ
+
+#org @NAME_CETITAN
+ハルクジラ
+
+#org @NAME_VELUZA
+ミガルーサ
+
+#org @NAME_DONDOZO
+ヘイラッシャ
+
+#org @NAME_TATSUGIRI
+シャリタツ
+
+#org @NAME_TATSUGIRI_RED
+シャリタツ
+
+#org @NAME_TATSUGIRI_YELLOW
+シャリタツ
+
+#org @NAME_ANNIHILAPE
+コノヨザル
+
+#org @NAME_CLODSIRE
+ドオー
+
+#org @NAME_FARIGIRAF
+リキキリン
+
+#org @NAME_DUDUNSPARCE
+ノココッチ
+
+#org @NAME_DUDUNSPARCE_THREE
+ノココッチ
+
+#org @NAME_KINGAMBIT
+ドドゲザン
+
+#org @NAME_GREAT_TUSK
+イダイナキバ
+
+#org @NAME_SCREAM_TAIL
+サケブシッポ
+
+#org @NAME_BRUTE_BONNET
+アラブルタケ
+
+#org @NAME_FLUTTER_MANE
+ハバタクカミ
+
+#org @NAME_SLITHER_WING
+チヲハウハネ
+
+#org @NAME_SANDY_SHOCKS
+スナノケガワ
+
+#org @NAME_IRON_TREADS
+テツノワダチ
+
+#org @NAME_IRON_BUNDLE
+テツノツツミ
+
+#org @NAME_IRON_HANDS
+テツノカイナ
+
+#org @NAME_IRON_JUGULIS
+テツノコウベ
+
+#org @NAME_IRON_MOTH
+テツノドクガ
+
+#org @NAME_IRON_THORNS
+テツノイバラ
+
+#org @NAME_FRIGIBAX
+セビエ
+
+#org @NAME_ARCTIBAX
+セゴール
+
+#org @NAME_BAXCALIBUR
+セグレイブ
+
+#org @NAME_GIMMIGHOUL
+コレクレー
+
+#org @NAME_GIMMIGHOUL_ROAMING
+コレクレー
+
+#org @NAME_GHOLDENGO
+サーフゴー
+
+#org @NAME_WO_CHIEN
+チオンジェン
+
+#org @NAME_CHIEN_PAO
+パオジアン
+
+#org @NAME_TING_LU
+ディンルー
+
+#org @NAME_CHI_YU
+イーユイ
+
+#org @NAME_ROARING_MOON
+トドロクツキ
+
+#org @NAME_IRON_VALIANT
+テツノブジン
+
+#org @NAME_KORAIDON
+コライドン
+
+#org @NAME_MIRAIDON
+ミライドン
+
+#org @NAME_WALKING_WAKE
+ウネルミナモ
+
+#org @NAME_IRON_LEAVES
+テツノイサハ
+
+#org @NAME_TAUROS_P
+ケンタロス
+
+#org @NAME_TAUROS_BLAZE_P
+ケンタロス
+
+#org @NAME_TAUROS_AQUA_P
+ケンタロス
+
+#org @NAME_WOOPER_P
+ウパー
+
+#org @NAME_URSALUNA_BLOODMOON
+ガチグマ
+
+#org @NAME_DIPPLIN
+カミッチュ
+
+#org @NAME_POLTCHAGEIST
+チャデス
+
+#org @NAME_POLTCHAGEIST_ARTISAN
+チャデス
+
+#org @NAME_SINISTCHA
+ヤバソチャ
+
+#org @NAME_SINISTCHA_MASTERPIECE
+ヤバソチャ
+
+#org @NAME_OKIDOGI
+イイネイヌ
+
+#org @NAME_MUNKIDORI
+マシマシラ
+
+#org @NAME_FEZANDIPITI
+キチキギス
+
+#org @NAME_OGERPON
+オーガポン
+
+#org @NAME_OGERPON_WELLSPRING_MASK
+オーガポン
+
+#org @NAME_OGERPON_HEARTHFLAME_MASK
+オーガポン
+
+#org @NAME_OGERPON_CORNERSTONE_MASK
+オーガポン
+
+#org @NAME_OGERPON_TERASTAL
+オーガポン
+
+#org @NAME_OGERPON_WELLSPRING_TERASTAL
+オーガポン
+
+#org @NAME_OGERPON_HEARTHFLAME_TERASTAL
+オーガポン
+
+#org @NAME_OGERPON_CORNERSTONE_TERASTAL
+オーガポン
+
+#org @NAME_ARCHALUDON
+ブリジュラス
+
+#org @NAME_HYDRAPPLE
+カミツオロチ
+
+#org @NAME_GOUGING_FIRE
+ウガツホムラ
+
+#org @NAME_RAGING_BOLT
+タケルライコ
+
+#org @NAME_IRON_BOULDER
+テツノイワオ
+
+#org @NAME_IRON_CROWN
+テツノカシラ
+
+#org @NAME_TERAPAGOS
+テラパゴス
+
+#org @NAME_TERAPAGOS_TERASTAL
+テラパゴス
+
+#org @NAME_TERAPAGOS_STELLAR
+テラパゴス
+
+#org @NAME_PECHARUNT
+モモワロウ
