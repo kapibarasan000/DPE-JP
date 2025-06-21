@@ -6996,12 +6996,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS_TERASTAL] =
 	{
 		.size = 0x0,
-		.y_offset = 0xa,
+		.y_offset = 0x10,
 	},
 	[SPECIES_TERAPAGOS_STELLAR] =
 	{
 		.size = 0x0,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_PECHARUNT] =
 	{

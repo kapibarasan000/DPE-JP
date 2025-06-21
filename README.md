@@ -1,7 +1,14 @@
 # DPE-JP
 これはBPRE用に作成された「Dynamic Pokemon Expansion」をBPRJ向けに調整したものです。  
-適用すると8世代まで（ヒスイを除く）のポケモンが追加されます。  
+適用すると9世代までのポケモンが追加されます。  
 適用後は必ずCFRU-JPも適用して下さい。（併用が前提となります。）
+
+9世代の素材については下記のものを使用しています。
+Dynamic-Pokemon-Expansion-Gen-9
+https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9
+
+pokeemerald-expansion
+https://github.com/rh-hideout/pokeemerald-expansion/tree/master
 
 ## 適用方法
 ざっくりとした適用の流れになります。詳細は[こちら](https://github.com/Skeli789/Complete-Fire-Red-Upgrade/wiki/Windows-Installation-Instructions)  
