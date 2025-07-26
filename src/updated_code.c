@@ -3,6 +3,7 @@
 #include "../include/graphics.h"
 #include "../include/main.h"
 #include "../include/pokedex.h"
+#include "../include/text.h"
 
 //Backsprite battle start
 
@@ -30,12 +31,75 @@ extern const struct CompressedSpritePalette gMonShinyPaletteTable[];
 const u16 gNumSpecies = NUM_SPECIES;
 const u16 gNumDexEntries = FINAL_DEX_ENTRY;
 
+struct TextPrinterTemplate
+{
+    const u8* currentChar;
+    u8 windowId;
+    u8 fontId;
+    u8 x;
+    u8 y;
+    u8 currentX;        // 0x8
+    u8 currentY;
+    u8 letterSpacing;
+    u8 lineSpacing;
+    u8 unk:4;   // 0xC
+    u8 fgColor:4;
+    u8 bgColor:4;
+    u8 shadowColor:4;
+};
+
+struct NamingScreenTemplate
+{
+    u8 copyExistingString;
+    u8 maxChars;
+    u8 iconFunction;
+    u8 addGenderIcon;
+    u8 initialPage;
+    const u8 *title;
+};
+
+struct NamingScreenData
+{
+    /*0x0*/    u8 tilemapBuffer1[0x800];
+    /*0x800*/  u8 tilemapBuffer2[0x800];
+    /*0x800*/  u8 tilemapBuffer3[0x800];
+    /*0x1800*/ u8 textBuffer[0x10];
+    /*0x1810*/ u8 tileBuffer[0x600];
+    /*0x1E10*/ u8 state;
+    /*0x1E11*/ u8 windows[5];
+    /*0x1E16*/ u16 inputCharBaseXPos;
+    /*0x1E18*/ u16 bg1vOffset;
+    /*0x1E1A*/ u16 bg2vOffset;
+    /*0x1E1C*/ u16 bg1Priority;
+    /*0x1E1E*/ u16 bg2Priority;
+    /*0x1E20*/ u8 bgToReveal;
+    /*0x1E21*/ u8 bgToHide;
+    /*0x1E22*/ u8 currentPage;
+    /*0x1E23*/ u8 cursorSpriteId;
+    /*0x1E24*/ u8 swapBtnFrameSpriteId;
+    /*0x1E25*/ u8 keyRepeatStartDelayCopy;
+    /*0x1E28*/ const struct NamingScreenTemplate *template;
+    /*0x1E2C*/ u8 templateNum;
+    /*0x1E30*/ u8 *destBuffer;
+    /*0x1E34*/ u16 monSpecies;
+    /*0x1E36*/ u16 monGender;
+    /*0x1E38*/ u32 monPersonality;
+    /*0x1E3C*/ MainCallback returnCallback;
+};
+
+extern struct NamingScreenData* sNamingScreen;
+
 u8 __attribute__((long_call)) GetGenderFromSpeciesAndPersonality(u16 species, u32 personality);
 u8  __attribute__((long_call)) GetUnownLetterFromPersonality(u32 personality);
 bool8 __attribute__((long_call)) GetSetPokedexFlag(u16 nationalNum, u8 caseID);
 s8 __attribute__((long_call)) DexFlagCheck(u16 nationalDexNo, u8 caseId, bool8 indexIsSpecies);
 u16 __attribute__((long_call)) SpeciesToNationalPokedexNum(u16 species);
 void __attribute__((long_call)) break_func();
+void __attribute__((long_call)) DexScreen_AddTextPrinterParameterized(u8 windowId, u8 fontId, const u8 *str, u8 x, u8 y, u8 colorIdx);
+void __attribute__((long_call)) FillWindowPixelBuffer(u8 windowId, u8 fillValue);
+bool8 __attribute__((long_call)) IsWideLetter(u8 character);
+u16 __attribute__((long_call)) AddTextPrinterParameterized(u8 windowId, u8 fontId, const u8 *str, u8 x, u8 y, u8 speed, void (*callback)(struct TextPrinterTemplate *, u16));
+void __attribute__((long_call)) PutWindowTilemap(u8 windowId);
 
 //This file's functions
 u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality);
@@ -430,4 +494,65 @@ static u16 LoadNationalPokedexView(void)
 	}
 
 	return lastMeaningfulIndex;
+}
+
+void DexScreen_PrintNum3LeadingZeroes(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
+{
+    u8 buff[5];
+    buff[0] = (num / 1000) + _0;
+    buff[1] = ((num %= 1000) / 100) + _0;
+    buff[2] = ((num %= 100) / 10) + _0;
+    buff[3] = (num % 10) + _0;
+    buff[4] = _END;
+    DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
+}
+
+void DexScreen_PrintNum3RightAlign(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
+{
+    u8 buff[5];
+    int i;
+    buff[0] = (num / 1000) + _0;
+    buff[1] = ((num %= 1000) / 100) + _0;
+    buff[2] = ((num %= 100) / 10) + _0;
+    buff[3] = (num % 10) + _0;
+    buff[4] = _END;
+    for (i = 0; i < 3; i++)
+    {
+        if (buff[i] != _0)
+            break;
+        buff[i] = _SPACE;
+    }
+    DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
+}
+
+const u8 gExpandedPlaceholder_Empty[] = {_END};
+void DrawTextEntry(void)
+{
+    u8 i, maxChars;
+    u8 temp[2];
+    u16 extraWidth, xpos;
+
+	if (sNamingScreen->templateNum == 1)
+	{
+		xpos = 2;
+		maxChars = 8;
+	}
+	else
+	{
+		xpos = sNamingScreen->templateNum == 2 ? 10 : 18;
+		maxChars = 6;
+	}
+
+    FillWindowPixelBuffer(sNamingScreen->windows[2], PIXEL_FILL(1));
+
+    for (i = 0; i < maxChars; i++)
+    {
+        temp[0] = sNamingScreen->textBuffer[i];
+        temp[1] = gExpandedPlaceholder_Empty[0];
+        extraWidth = (IsWideLetter(temp[0]) == TRUE) ? 2 : 0;
+
+        AddTextPrinterParameterized(sNamingScreen->windows[2], 2, temp, i * 11 + xpos + extraWidth, 1, 0, 0);
+    }
+
+    PutWindowTilemap(sNamingScreen->windows[2]);
 }

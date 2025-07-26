@@ -21,7 +21,7 @@ bxr1:
 
 .align 2
 .RegularPokedexSize: .word 0xC10
-.ExpandedPokedexSize: .word 999 * 8
+.ExpandedPokedexSize: .word 1200 * 8
 
 @0x8104A66 with r1
 DisplayRegionalDexNumHook:

@@ -4,7 +4,7 @@ from glob import glob
 
 # Data
 TM_HM_COUNT = 128
-TUTOR_COUNT = 128
+TUTOR_COUNT = 152
 SPECIES_COUNT = 0x59F + 1
 
 TM_OUTPUT = "assembly/generated/tm_compatibility.s"

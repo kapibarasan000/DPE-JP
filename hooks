@@ -25,3 +25,7 @@ DisplayRegionalDexNumHook 8105822 1
 CountSpeciesInDex 8105978 2
 AlternateDexEntriesHook 8106860 0
 SummaryScreenIconPalHook 813A5B4 1
+NationalPokeDexPrintFix 8103B0C 1
+DexScreen_PrintNum3LeadingZeroes 0810563C 6
+DexScreen_PrintNum3RightAlign 081056D8 6
+DrawTextEntry 0809F808 0

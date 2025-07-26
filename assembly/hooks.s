@@ -149,3 +149,17 @@ EvolutionSceneHook3:
 	add r0, r1
 	ldr r2, =0x80CF320 | 1
 	bx r2
+
+.pool
+@0x8103B0C with r1
+NationalPokeDexPrintFix:
+	mov r1, #0x0
+	ldr r2, =0x83DD4FF
+	mov r3, #0x0
+	ldr r6, =0x8105584 | 1
+	bl bxr6
+	ldr r1, =0x8103B16 | 1
+	bx r1
+
+bxr6:
+	bx r6
