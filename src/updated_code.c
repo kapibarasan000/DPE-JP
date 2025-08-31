@@ -539,7 +539,10 @@ void DrawTextEntry(void)
 	}
 	else
 	{
-		xpos = sNamingScreen->templateNum == 2 ? 10 : 18;
+		if (sNamingScreen->templateNum == 2 || sNamingScreen->templateNum == 3)
+			xpos = 10;
+		else
+			xpos = 18;
 		maxChars = 6;
 	}
 
