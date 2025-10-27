@@ -1876,6 +1876,7 @@ extern const u8 DEX_ENTRY_SQUAWKABILLY_BLUE[];
 extern const u8 DEX_ENTRY_SQUAWKABILLY_YELLOW[];
 extern const u8 DEX_ENTRY_SQUAWKABILLY_WHITE[];
 extern const u8 DEX_ENTRY_PALAFIN_HERO[];
+extern const u8 DEX_ENTRY_DUDUNSPARCE_THREE[];
 extern const u8 DEX_ENTRY_TAUROS_P[];
 extern const u8 DEX_ENTRY_TAUROS_BLAZE_P[];
 extern const u8 DEX_ENTRY_TAUROS_AQUA_P[];
