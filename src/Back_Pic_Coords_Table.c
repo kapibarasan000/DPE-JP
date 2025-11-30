@@ -4356,12 +4356,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_CHARIZARD_MEGA_Y] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_BLASTOISE_MEGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_BEEDRILL_MEGA] =
 	{
@@ -4371,7 +4371,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_PIDGEOT_MEGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x3,
+		.y_offset = 0x7,
 	},
 	[SPECIES_ALAKAZAM_MEGA] =
 	{
@@ -4526,7 +4526,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_SALAMENCE_MEGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x3,
+		.y_offset = 0x1,
 	},
 	[SPECIES_METAGROSS_MEGA] =
 	{
@@ -4551,12 +4551,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_KYOGRE_PRIMAL] =
 	{
 		.size = 0x0,
-		.y_offset = 0x12,
+		.y_offset = 0x13,
 	},
 	[SPECIES_RAYQUAZA_MEGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x5,
+		.y_offset = 0x0,
 	},
 	[SPECIES_LOPUNNY_MEGA] =
 	{
@@ -5176,7 +5176,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_MUK_A] =
 	{
 		.size = 0x0,
-		.y_offset = 0x6,
+		.y_offset = 0x8,
 	},
 	[SPECIES_EXEGGUTOR_A] =
 	{
