@@ -6101,7 +6101,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_MOLTRES_G] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x5,
 	},
 	[SPECIES_SLOWKING_G] =
 	{
